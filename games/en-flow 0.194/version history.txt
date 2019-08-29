@@ -1,0 +1,71 @@
+
+.version history
+
+2009/2/15  ver.0.00   Posted to board.
+
+2009/2/22  ver.0.01   Removed the cyclops effect.
+                      Fixed bugs such as the debug movement speed being mislabeled.
+					  Added effect actions.
+					  Added a connecting room to each world.
+
+2009/3/10  ver.0.02   Fixed various bugs and added game instructions.
+                      Please start from the beginning.
+                      Created an experimental minigame.
+					  Created half of a deep-sea world.
+
+2009/5/6   ver.0.03   Working on the game again after neglecting it for a while.
+                      Added a seabed map and a utility pole map.
+					  Added effects.
+
+2009/7/4   ver.0.04   BusyÖ Added a music world map.
+                      Added a seabed map.
+					  You can now sit down when not using an effect.
+					  Other than that, I made overall adjustments.
+
+2009/8/14  ver.0.05   The main new addition is a minigame. Chase and catch the fish.
+                      The BGM was too good to waste.
+					  Added effects and part of a map.
+
+2009/10/23 ver.0.06   Added a seabed map and a utility pole map.
+                      Added broom and watering can effects. Work is slow-goingÅc
+
+2010/01/25 ver.0.07   Added maps to the orange peak, apartments, tentacles, etc.
+                      Added effects. Relocated some effects.
+					  Fixed bugs and made other minor changes.
+
+2010/01/27 ver.0.07 (revised)
+                      Killed various bugs.
+					  For various reasons, I recreated the movement event,
+					  but there still might be mistakes.
+					  I must examine it more carefully.
+
+2010/5/4   ver 0.08   Added 5 effects. There are currently 14 in total.
+                      Added maps here and there.
+					  Changed the equipment. (Please start the game from your room.)
+					  Please excuse the very slow update speed.
+
+2010/8/30  ver 0.09   Added 5 effects. There are currently 19 in total.
+                      Added new maps. They're a bit shallowly-made.
+					  Added various events. They're slightly experimental.
+					  Compressed the .wav files. Sound quality may have fallen slightly.
+					  I plan to add the ending in the next update.
+
+2011/5/4   ver 0.1    Added 5 effects. There are 24 in all.
+                      The ending was implemented. There are a few types.
+					  Please excuse how terribly late this update was.
+
+2011/7/18  ver 0.15   Fixed bugs and added a few small things.
+
+2012/4/1   ver 0.16   Various changes.
+
+2012/4/2   ver 0.17   Added effect actions, fixed bugs, added a few maps.
+
+2013/8/18  ver 0.18   Fixed bugs, added a few maps.
+
+2014/11/21 ver 0.19   Added maps.
+
+2014/11/22 ver 0.192  Fixed a bug.
+
+2019/05/19 ver 0.193  Maps added. Changed the location of one effect.
+
+2019/05/27 ver 0.194  Fixed bugs in the new maps, and added events.

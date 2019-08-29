@@ -1,0 +1,175 @@
+====================================================================================================
+OFF V.1.6.1
+====================================================================================================
+
+Dziekujê za pobranie OFF. Wszelkie komentarze, uwagi, wskazania b³êdów oraz krytyka s¹ mile widziane, wyœlij je proszê prosto do mnie bez chwili wahania (dzia³ "kontakt" na koñcu pliku).
+
+== INSTALACJA ==
+Aby uruchomiæ grê, kliknij dwukrotnie na ikonê "RPG_RT.EXE" w folderze g³ównym.
+Po uruchomieniu gry naciœnij klawisz F4, ¿eby graæ w trybie okienkowym.
+U¿yj F5, ¿eby zmieniæ rozmiar okna.
+
+Jeœli pojawi siê komunikat o b³êdzie, najprawdopodobniej musisz œci¹gn¹æ i zainstalowaæ program o nazwie RPG Maker 2003 - nie jest zbyt du¿y i pozwala ³atwo tworzyæ gry RPG! Jest doœæ ³atwy do znalezienia w Internecie, ale byæ mo¿e trzeba bêdzie równie¿ œci¹gn¹æ inny program zwany RTP, bez którego RPG Maker nie bêdzie dzia³aæ. Zwróæ uwagê, ¿eby by³a to wersja 2003. Wtedy spróbuj znów otworzyæ RPG_RT.EXE.
+
+Jeœli nadal nie chce ruszyæ, to nie wiem, jak mogê pomóc. IdŸ poprosiæ o pomoc ludzi inteligentniejszych ode mnie (jest ich mnóstwo) albo spróbuj u¿yæ innego komputera... Albo przejdŸ siê do dzia³u "problemy i rozwi¹zania", parê fragmentów póŸniej w tym pliku. Bez w¹tpienia.
+
+== STEROWANIE ==
+U¿yj klawiszy strza³ek, ¿eby poruszyæ g³ównym bohaterem (Pa³karz).
+U¿yj entera lub spacji, ¿eby nawi¹zaæ interakcjê z elementami otoczenia lub innymi postaciami.
+U¿yj Esc lub 0 (zero), ¿eby otworzyæ menu g³ówne i ¿eby potem z niego wyjœæ.
+U¿yj F4, ¿eby przejœæ z trybu pe³nego ekranu do trybu okienkowego, a F5 w trybie okienkowego - ¿eby zmieniæ rozmiar tego ostatniego.
+
+
+====================================================================================================
+FAQ
+====================================================================================================
+
+Q: Nie rozumiem systemu walki...
+R: Tutorial jest proponowany na pocz¹tku gry. Jeœli system wydaje ci siê niezrozumia³y mimo to... Emm... IdŸ mo¿e poprosiæ o pomocn¹ d³oñ na forum Zanarkandu (http://zanaforum.free.fr) albo popróbuj wszystkiego po trochu, a¿ znajdziesz rozwi¹zanie.
+
+Q: Mo¿na siê dostaæ do Almy?
+R: Zamknij plik i zagraj, ¿eby zobaczyæ.
+
+Q: Nie rozumiem nic ze scenariusza.
+R: To w mniejszym lub wiêkszym stopniu normalne. Mo¿e wyjaœni siê on póŸniej w grze. Nie ma jednak co do tego ¿adnej gwarancji.
+
+Q: Jest jakiœ sekretny kod, ¿eby coœ odblokowaæ?
+R: Jest jeden, brzmi: Dó³ - Lewo - Góra - Prawo - Z - S - P - D - P - Start.
+
+Q: OFF bêdzie mieæ kontynuacjê?
+R: Myœlimy nad tym.
+
+Q: Jak odblokowaæ sekretne zakoñczenie?
+R: Gwizdu gwizdu...
+
+Q: Co oznacza FAQ, Q i R?
+R: FAQ oznacza z angielskiego "Frequently Asked Questions", Q to "Question", a R - "Response".
+
+Q: Co oznacza DARPA?
+R: Departement of Armement Research and eee... No, myœlê, ¿e coœ takiego. Ale to pytanie tak czy inaczej nie ma ¿adnego zwi¹zku z OFF...
+
+Q: Czy mogê u¿yæ grafik z twojej gry?
+R: (nie s¹dzê, ¿eby ludzie mieli ochotê, ale...) Nie krêpuj siê. (Jeœli to zrobisz, pomyœl o umieszczeniu mojego imienia na liœcie twórców swojej gry... Bardzo proszê.) Unikaj natomiast robienia gry, która mia³aby miejsce w takim samym œwiecie jak OFF - mamy ca³e t³o fabularne, które zaplanowaliœmy sobie wykorzystaæ do samego koñca.
+
+Q: Czy mogê u¿yæ twojej muzyki w mojej grze?
+R: To ju¿ bardziej dra¿liwa kwestia. Bardzo proszê, byœ skontakowa³ siê przed tym z Aliasem Conradem Coldwoodem. (aliasconradcoldwood@gmail.com)
+
+Q: A propos muzyki, zauwa¿y³em, ¿e pewne pêtle nie brzmi¹ idealnie...
+R: Bla bla blaaaaa! Brzmi¹ idealnie! To wina RPG Maker'a, ¿e nas nie lubi.
+
+Q: Nie mogê przejœæ czegoœ w OFF...
+R: Napisa³em kompletn¹ solucjê, jest tutaj:  http://gaarabis.free.fr/_minisites/off/03Downloads/Soluce.rar
+
+Q: Francuski jest paskudnym jêzykiem, nie uwa¿asz?
+R: [Oprócz polskiej] istnieje równie¿ angielska i hiszpañska. Muszê jednak mimo wszystko przyznaæ, ¿e nie masz gustu. Wiêcej info o wersji angielskiej tutaj: https://starmen.net/forum/Fan/Games/OFF-by-Mortis-Ghost; dla wersji hiszpañskiej jest tu: http://zeirt.tumblr.com/post/49271624742
+
+Q: Mam inne pytanie, ale mam obawy przed kontaktem z wami, bo sprawiacie wra¿enie dziwnych.
+R: Zostawiam swój adres e-mail poni¿ej, skontaktuj siê bez wahania. Przyjemnoœci¹ dla mnie bêdzie odpowiedzieæ na twoje pytanie.
+
+
+====================================================================================================
+WERSJE
+====================================================================================================
+
+== Ró¿nice wzglêdem wersji 1.0 ==
+* Naprawienie b³êdu krytycznego dotycz¹cego bosa
+* Naprawienie b³êdu przechodzenia przez czêœæ 4 Strefy 3
+* Teoretycznie OFF nie potrzebuje ju¿ RPG Makera 2003 do dzia³ania
+
+== Ró¿nice wzglêdem wersji 1.1 ==
+* Naprawienie dwóch niespójnych dialogów
+* Naprawienie b³êdu przechodzenia przez oczyszczon¹ Strefê 1
+* Naprawienie drobnego b³êdu w czêœci pierwszej Strefy 3
+* Naprawienie drobnego b³êdu w Strefie 3
+* Naprawienie b³êdu przechodzenia przez czêœæ 1 Strefy 3
+* Naprawienie b³êdu przechodzenia przez oczyszczon¹ Strefê 3
+* Naprawienie b³êdu przechodzenia przez Pokój
+* Naprawiono b³¹d ortograficzny podczas walki
+* Naprawienie drobnego b³êdu dotycz¹cego zapisów
+
+== Ró¿nice wzglêdem wersji 1.2 ==
+* Naprawienie b³êdu na plakatach w Strefie 2
+* Dodanie do pliku readme linków do czcionek i solucji
+* Dodanie bardzo krótkiego wprowadzenie dla muzyki
+* Naprawienie drobnego b³êdu w napisach koñcowych
+* Zmiana ekranu
+* Naprawienie b³êdu dotycz¹cego muzyki podczas bitwy Strefy 2
+* Naprawienie b³êdu nêdznego plakatu w Pokoju
+
+== Ró¿nice wzglêdem wersji 1.3 ==
+* Naprawienie b³êdu podczas tutorial Strefy 0
+* Naprawienie b³êdu przechodzenia przez Strefê 1
+* Naprawienie wa¿nego b³êdu w Strefie 3
+
+== Ró¿nice wzglêdem wersji 1.4 ==
+* Naprawienie wa¿nego b³êdu w Strefie 2
+
+== Ró¿nice wzglêdem wersji 1.5 ==
+* Ostateczne naprawienie nieczytelnych czcionek w grze (mam nadziejê)
+
+
+=== Ró¿nice t³umaczenia wzglêdem wersji 1.5 oraz wzglêdem t³umaczenia angielskiego 2.0 ===
+* Naprawienie wci¹¿ powracaj¹cego b³êdu dotycz¹cego muzyki podczas bitwy Strefy 2
+* Przet³umaczenie kartek kalendarzowych sunday1, sunday2 i sunday3
+* Przet³umaczenie kartki z biblioteki livre8 i livre6
+* Pozostawienie w³aœciwego, dos³ownego znaczenia w plikach bouquin8 i livre7
+* Przet³umaczenie francuskich s³ów z kartek do "wstawek historycznych": metal2, plastique2 i plastique4
+* niemo¿liwe, ¿eby ktoœ to przeczyta³.
+
+====================================================================================================
+PROBLEMY I ROZWI¥ZANIA
+====================================================================================================
+
+== GRA NIE CHCE SIÊ URUCHOMIÆ ==
+OFF zosta³a stworzona za pomoc¹ RPG Maker 2003 i normalnie dzia³a pod Windowsem. Jeœli nie u¿ywasz Windowsa, musisz uruchomiæ grê przy pomocy emulatora (na przyk³ad Wine, dostêpny dla Linuxa i Mac OS).
+W nielicznych przypadkach trzeba zainstalowaæ RPG Maker 2003 oraz RTP. (Chooæ czasami wystarczy dopisek "FullPackageFlag=1" na koñcu RPG_RT.ini. [od t³umacza])
+
+== POJAWIA SIÊ DIRECT DRAW ERROR ==
+Oznacza to, ¿e próbujesz uruchomiæ grê na Windowsie 7 (lub nowszym), do którego RPG Maker 2003 nie zosta³ przystosowany. Musisz wiêc uruchomiæ j¹ w trybie zgodnoœci (powinno to byæ pod prawym klawiszem myszy albo w którejœ z zak³adek w³aœciwoœci). [od t³umacza]
+
+== GRA NIE TWORZY ZAPISÓW ==
+Jeœli pobra³eœ wersjê OFF skompresowan¹ do pliku ZIP lub RAR, rozpakuj ca³y plik w jednym folderze (prawym przyciskiem myszy na archiwum i "Wyodrêbnij wszystkie"), potem usuñ archiwum ZIP lub RAR i uruchom grê normalnie, klikaj¹c dwukrotnie RPG_RT.EXE.
+
+Pod Windowsem 7 mo¿liwe jest, ¿e gra nie ma praw potrzebnych do zapisu plików na dysku twojego komputera. Przede wszystkim upewnij siê, ¿e gra zosta³a rozpakowana w "Program Files" lub "Program Files x86". Jeœli to nie rozwi¹zuje problemu, spróbuj uruchomiæ aplikacjê z prawami administratora (kliknij prawym przyciskiem myszy plik RPG_RT.EXE i wybierz "Uruchom jako administrator").
+
+== EKRAN MIGOCZE PRZY URUCHAMIANIU ==
+Domyœlnie OFF uruchamia siê do trybu pe³noekranowego 320x240. Jeœli twoja karta graficzna nie obs³uguje pe³nego ekranu w tej rozdzielczoœci, prze³¹czyæ siê do trybu okienkowego (przez naciœniêcie klawisza F4 lub jednoczesne naciœniêcie klawiszy Alt+Enter). Jeœli obraz jest zbyt ma³y, mo¿na podwoiæ wielkoœæ piksela, naciskaj¹c klawisz F5.
+
+== KLAWISZE NIE DZIA£AJ¥ ==
+Czasami niektóre urz¹dzenia pod³¹czone do komputera wchodz¹ w konflikt z gr¹. Od³¹cz kontroler (typu pad, joystick, itp.) i ponownie uruchom grê.
+
+== DWIÊKI DZIA£AJ¥, ALE NIE MUZYKA ==
+Œci¹gnij LAME MP3 Encoder i rozpakuj pliki MP3 zawarte w folderze "Music" do wersji WAV (uwaga: rozpakowane pliki MP3 wymagaj¹ wiêcej miejsca na dysku).
+
+== TEKST JEST NIECZYTELNY ==
+Skopiuj plik "ProFont_PL.fon" (znajduje siê w folderze instalacyjnym OFF) do folderu czcionek Windowsa (domyœlnie: "C:\Windows\fonts"). Pod niektórymi wersjami Windowsa jest mo¿liwoœæ zainstalowania czcionek, klikaj¹c prawym przyciskiem myszy na czcionkê, a nastêpnie wybieraj¹c "zainstaluj czcionkê".
+
+
+====================================================================================================
+TWÓRCY
+====================================================================================================
+
+== EKIPA ==
+Gra stworzona przez Mortisa Ghosta
+Muzyka i wspó³realizacja - Alias Conrad Coldwood
+G³ówne testy - Alias Conrad Coldwood i ze.
+Beta-testy - Kno, Eolen i Minusc
+Projekt Cukier - Lithiriem
+Projekt Ballmana i Bokser - Azertip
+Wykonany przy pomocy RPG Maker 2003 przet³umaczonego przez Bodom Child & RaBBi
+Gra UNPRODUCTIVE FUN TIME
+(we wspó³pracy z la banque mondiale et son orchestre oraz Forgotten Dreams)
+
+== T£UMACZENIE ==
+Astroni Toderas (ewa.astroni@wp.pl)
+
+== KONTAKT ==
+Mortis Ghost: mortisnova@hotmail.com
+Alias Conrad Coldwood: aliasconradcoldwood@gmail.com
+
+http://gaarabis.free.fr (unproductive fun time)
+http://www.myspace.com/banquemondiale (la banque mondiale et son orchestre)
+http://zanaforum.free.fr (zanarkand)
+http://astroni800.tumblr.com (astroni)
+
+(c) 2008 Mortis Ghost - Wszystkie prawa zastrze¿one

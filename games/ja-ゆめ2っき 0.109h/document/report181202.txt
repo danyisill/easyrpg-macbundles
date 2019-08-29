@@ -1,0 +1,2091 @@
+ver.0.108a＋パッチ3＋4 時点での参照されていない素材、参照できなかった素材の情報です。
+VIP製のTkool Deep Inspector（作者: ◆RGSS..WS4M）という解析ツールで出力しました。
+フルセット作成時の容量削減、ファイル整理、バグ発見などの参考にしてください。
+ただし、誤検出の報告もありますので、あくまでも参考までに留めてください。
+
+本来はどのような素材がどこで呼び出されているのかの情報も全て出力されますが、
+それを含めるとこのテキストの容量が数百倍に嵩むので参照できなかった素材のもの以外カットしました。
+手元にあるのでもし必要があればお聞きください。 by ◆tAkaDaGOxA
+
+■ 使用されていない素材
+  - /Music/88.mp3(Deleted 19/05/10)
+  - /Music/88.wav
+  - /Music/985_m_3.wav
+  - /Music/drm_oop_135_yugami.wav
+  - /Music/kappa_10_4.wav(In Used 19/05/10)
+  - /Music/n3-dLb.wav
+  - /Music/n3-SaP.wav(In Used 19/03/19)
+  - /Music/rnt_yume.wav
+  - /Music/shigurin-bgm001.wav(In Used 19/03/19)
+  - /Music/shigurin-bgm002.wav
+  - /Music/shigurin-bgm003.wav
+  - /Music/spelude33.wav
+  - /Music/under a cloak of snow - コピー.wav
+  - /Music/yumepo11.wav
+  - /Music/家.mid
+  - /Music/黒の鐘＠アノン.wav
+  - /Title/2i9_titlepic.png
+  - /Title/taitoru2.png
+  - /Title/Taitoru2a.png
+  - /Title/title1.png
+  - /Title/title2.png
+  - /Title/title3.png
+  - /CharSet/185_chipset02.png
+  - /CharSet/2i9_charset7.png
+  - /CharSet/2i9_omenya2.png
+  - /CharSet/Aring_trick_or_Treat.xyz
+  - /CharSet/B_E_syujinkou.png
+  - /CharSet/dedp_rakugaki2q.png
+  - /CharSet/dedp_rakugaki3q.png
+  - /CharSet/dedp_ro_cube01a.png
+  - /CharSet/INT_CharSet_02.png
+  - /CharSet/kodomo_04-2.png
+  - /CharSet/Mike_Charset_02.png
+  - /CharSet/starman_doll_angry.png
+  - /CharSet/starman_repair_02.png
+  - /CharSet/syujinkou_effect_odoriko.png
+  - /CharSet/syujinkou　にじ　旧グラ.png
+  - /CharSet/Yeris_CharSet_CoulombOnBoard.png
+  - /CharSet/yume2kkig_uljp00009.png
+  - /CharSet/zi.png
+  - /Panorama/029a3AAAAAAA.png
+  - /Panorama/185_back2.png
+  - /Panorama/185_back3.png
+  - /Panorama/20_Panorama_04.png
+  - /Panorama/20_Panorama_33.png
+  - /Panorama/20_Panorama_45_red.png
+  - /Panorama/20_Panorama_53.png
+  - /Panorama/20_Panorama_57.png
+  - /Panorama/20_Panorama_62.png
+  - /Panorama/20_Panorama_72.xyz
+  - /Panorama/2i9_pano3.png
+  - /Panorama/2i9_pano8.png
+  - /Panorama/An_Ganmen.png
+  - /Panorama/bokun_Panorama_3.png
+  - /Panorama/dedp_awaniutareru 1.png
+  - /Panorama/dedp_back-pers2b.png
+  - /Panorama/dedp_face_hand.png
+  - /Panorama/dedp_marumaru2.png
+  - /Panorama/dedp_mati2.png
+  - /Panorama/dedp_mizu-1.png
+  - /Panorama/dedp_mizu-2.png
+  - /Panorama/dedp_mizu-3.png
+  - /Panorama/desktop.ini
+  - /Panorama/gensou2.png
+  - /Panorama/gensou3.png
+  - /Panorama/gensou5.png
+  - /Panorama/HU_01_ret.png
+  - /Panorama/kao.png
+  - /Panorama/kao2.png
+  - /Panorama/kura_enkei01.png
+  - /Panorama/kura_enkei09_r.png
+  - /Panorama/light-4.png
+  - /Panorama/loda_Panorama_02.png
+  - /Panorama/me.png
+  - /Panorama/mine_UFO.png
+  - /Panorama/naibu.png
+  - /Panorama/oudn-panorama05.png
+  - /Panorama/oudn-panorama09.png
+  - /Panorama/qAA.png
+  - /Panorama/shigurin-pic01.png
+  - /Panorama/suuzi.png
+  - /Panorama/suuzi2.png
+  - /Panorama/suuzi3.png
+  - /Panorama/tobira_back_b.png
+  - /Panorama/under_the_sea.png
+  - /Panorama/utsugame-Iivqr.png
+  - /Panorama/wataru haikei8.png
+  - /Panorama/xxxmatibito-6.png
+  - /Panorama/都市夜景＿1.png
+  - /Panorama/都市夜景＿2.png
+  - /Panorama/顔４.png
+  - /ChipSet/20_Chipset_03.png
+  - /ChipSet/710_ChipSet_19.png
+  - /ChipSet/710_ChipSet_21.png
+  - /ChipSet/710_ChipSet_ED.png
+  - /ChipSet/B_chipset_sinden.png
+  - /ChipSet/dedp_ChipSet_05_emp.png
+  - /ChipSet/dedp_ChipSet_06_xxx.png
+  - /ChipSet/dedp_suisou-M.png
+  - /ChipSet/galaxy_chipset_草原.png
+  - /ChipSet/karimono.png
+  - /ChipSet/kura8.bak.png
+  - /ChipSet/spelude.png.bak
+  - /ChipSet/↑V↑_Chip_Set_3.png
+  - /ChipSet/マップチップ.xcf
+  - /ChipSet/峰_うろつき部屋っぽいチップ.png
+  - /Picture/000window.png
+  - /Picture/20_Picture_25.png
+  - /Picture/20_Picture_28.png
+  - /Picture/20_Picture_43.png
+  - /Picture/20_Picture_49.png
+  - /Picture/20_Picture_64.xyz
+  - /Picture/2i9_PictureOmn.png
+  - /Picture/2i9_Picture_4.png
+  - /Picture/2i9_Picture_O1.png
+  - /Picture/2i9_Picture_O2.png
+  - /Picture/710_waku.png
+  - /Picture/945タイトル.png
+  - /Picture/BD_zyoutarou_00.png
+  - /Picture/book txt 710-1.png
+  - /Picture/book txt fumie.png
+  - /Picture/book txt spelude1.png
+  - /Picture/book txt spelude2.png
+  - /Picture/book txt spelude3.png
+  - /Picture/book txt Uta-01.png
+  - /Picture/book txt Uta-02.png
+  - /Picture/dedp_clock5-1.png
+  - /Picture/dedp_clock5-2.png
+  - /Picture/dedp_clock5-3.png
+  - /Picture/dedp_cut_room2.png
+  - /Picture/dedp_marumaru.png
+  - /Picture/dedp_tesuto5.png
+  - /Picture/effect get window fc.png
+  - /Picture/kaokai.png
+  - /Picture/kura window.png
+  - /Picture/kura-maze.edg
+  - /Picture/kura_END+.xyz
+  - /Picture/kura_GBlike_00.png
+  - /Picture/kura_mini01+.png
+  - /Picture/kura_mini10.png
+  - /Picture/kura_PC_gamen_02.png
+  - /Picture/kura_PuzzleName_22.png
+  - /Picture/kura_Slot_+20.xyz
+  - /Picture/kura_Slot_+2000.xyz
+  - /Picture/kura_Slot_+500.xyz
+  - /Picture/kura_Slot_+800.xyz
+  - /Picture/kura_Slot_-100.xyz
+  - /Picture/kura_StaffCredits.edg
+  - /Picture/kura_StaffCredits_2.xyz
+  - /Picture/kura_txt6.png
+  - /Picture/pc yumegamen 03-148.xyz
+  - /Picture/pc yumegamen 03-175-old.xyz
+  - /Picture/pc yumegamen 04-1.xyz
+  - /Picture/pc yumegamen 04-10.xyz
+  - /Picture/pc yumegamen 04-11.xyz
+  - /Picture/pc yumegamen 04-12.xyz
+  - /Picture/pc yumegamen 04-13.xyz
+  - /Picture/pc yumegamen 04-14.xyz
+  - /Picture/pc yumegamen 04-15.xyz
+  - /Picture/pc yumegamen 04-16.xyz
+  - /Picture/pc yumegamen 04-17.xyz
+  - /Picture/pc yumegamen 04-18.xyz
+  - /Picture/pc yumegamen 04-19.xyz
+  - /Picture/pc yumegamen 04-2.xyz
+  - /Picture/pc yumegamen 04-20.xyz
+  - /Picture/pc yumegamen 04-21.xyz
+  - /Picture/pc yumegamen 04-22.xyz
+  - /Picture/pc yumegamen 04-23.xyz
+  - /Picture/pc yumegamen 04-24.xyz
+  - /Picture/pc yumegamen 04-25.xyz
+  - /Picture/pc yumegamen 04-26.xyz
+  - /Picture/pc yumegamen 04-27.xyz
+  - /Picture/pc yumegamen 04-28.xyz
+  - /Picture/pc yumegamen 04-29.xyz
+  - /Picture/pc yumegamen 04-3.xyz
+  - /Picture/pc yumegamen 04-30.xyz
+  - /Picture/pc yumegamen 04-31.xyz
+  - /Picture/pc yumegamen 04-32.xyz
+  - /Picture/pc yumegamen 04-33.xyz
+  - /Picture/pc yumegamen 04-34.xyz
+  - /Picture/pc yumegamen 04-35.xyz
+  - /Picture/pc yumegamen 04-36.xyz
+  - /Picture/pc yumegamen 04-4.xyz
+  - /Picture/pc yumegamen 04-5.xyz
+  - /Picture/pc yumegamen 04-6.xyz
+  - /Picture/pc yumegamen 04-7.xyz
+  - /Picture/pc yumegamen 04-8.xyz
+  - /Picture/pc yumegamen 04-9.xyz
+  - /Picture/pc yumegamen 04-default.png
+  - /Picture/pc yumegamen 04-noname.png
+  - /Picture/pc yumegamen 04-urocheck.png
+  - /Picture/pc yumegamen 04-yourw.png
+  - /Picture/pc yumegamen 05-3.png
+  - /Picture/pc yumegamen music00.png
+  - /Picture/pc yumegamen Window tools wp load.png
+  - /Picture/puzzle_MAP0117_01.xyz
+  - /Picture/puzzle_MAP0117_02.xyz
+  - /Picture/puzzle_MAP0117_03.xyz
+  - /Picture/puzzle_MAP0117_04.xyz
+  - /Picture/puzzle_MAP0117_05.xyz
+  - /Picture/puzzle_MAP0117_06.xyz
+  - /Picture/puzzle_MAP0117_07.xyz
+  - /Picture/puzzle_MAP0117_08.xyz
+  - /Picture/puzzle_MAP0117_09.xyz
+  - /Picture/puzzle_MAP0117_10.xyz
+  - /Picture/puzzle_MAP0117_11.xyz
+  - /Picture/puzzle_MAP0117_12.xyz
+  - /Picture/puzzle_MAP0117_13.xyz
+  - /Picture/puzzle_MAP0117_14.xyz
+  - /Picture/puzzle_MAP0117_15.xyz
+  - /Picture/puzzle_MAP0117_16.xyz
+  - /Picture/puzzle_MAP0117_17.xyz
+  - /Picture/puzzle_MAP0117_18.xyz
+  - /Picture/puzzle_MAP0117_19.xyz
+  - /Picture/puzzle_MAP0117_20.xyz
+  - /Picture/puzzle_MAP0117_21.xyz
+  - /Picture/puzzle_MAP0117_22.xyz
+  - /Picture/puzzle_MAP0117_23.xyz
+  - /Picture/puzzle_MAP0117_24.xyz
+  - /Picture/puzzle_MAP0117_25.xyz
+  - /Picture/setumeisyo1.bak.png
+  - /Picture/setumeisyo3.bak.png
+  - /Picture/SR_name_000_？.png
+  - /Picture/syestem_staff_r_02.xyz
+  - /Picture/syestem_staff_r_03.xyz
+  - /Picture/syestem_staff_r_04.xyz
+  - /Picture/syestem_staff_r_05.xyz
+  - /Picture/system_13_kabekami_manual-2.png
+  - /Picture/system_13_kabekami_manual-3.png
+  - /Picture/system_13_kabekami_manual.png
+  - /Picture/system_s_02.png
+  - /Picture/system_s_07.png
+  - /Picture/syujinkou1-E34.png
+  - /Picture/s_l_check.png
+  - /Picture/s_r_check.png
+  - /Picture/weviup_save_select.png
+  - /Picture/zenmaigahara_minigame_setu.png
+  - /FaceSet/read_me.png
+  - /Sound/drm_noise_14_record.wav
+  - /Sound/Electrical Current01-1.wav
+  - /Sound/kappa_se07.wav
+  - /System/2i9_system1t.png
+  - /System/system-is.png
+  - /System/system6.png
+  - /System/title.png
+  - /Battle/dedp_anime03.png
+
+■ 参照できなかった素材
+  - 魔王魂-se-飲む02
+[<!>/魔王魂-se-飲む02] 使用回数: 2 回
+  マップファイル名:[Map0320.lmu]
+    イベントID:[35] イベント名:[EV0035] 位置:[X:15, Y:4]
+      Page:[1]
+        L0001:◆効果音の演奏
+      Page:[4]
+        L0001:◆効果音の演奏
+  - 風船ひねり
+  - 爆撃機
+  - 水族館_ネコノハヤシロ
+  - 黒猫、白猫
+  - 光のオルゴール＠アノン
+  - 悪夢に潜む真実の壺
+  - ループ「マグマ・熔鉱炉」By音師竹内
+  - ポロロ
+  - ファイル　ファイル　ファイル　ファイル　ファイル　ファイル　ファイル　ファイル　ファイル　ファイル
+  - カレイドビジョン019
+  - のん_0001
+  - yume2kki3 by.REO
+  - yume2kki-short remix
+  - yasuragi+image
+  - waraiuta_anon
+  - title_3
+  - title3_3
+  - title2_3
+  - tech1
+  - system_08
+  - spelude-6
+  - spelude-4
+  - spelude-32
+  - spelude-31
+  - spelude-3
+  - spelude-25
+  - spelude-23
+  - spelude-22
+  - spelude-20
+  - spelude-2
+  - spelude-17
+  - spelude-14
+  - spelude-12
+  - spelude-11
+  - spelude-10
+  - spelude-1
+  - soundshop-89maturi
+  - sound4c
+  - sound3c_
+  - sound3c
+  - sound3b
+  - sennou
+  - rnt_water_r
+  - rnt_repeat
+  - rnt_akarusugi
+  - pikopiko
+  - piano1_
+  - piano
+  - owari4 by.sakai
+  - owari3 by.sakai
+  - owari1
+  - or
+  - no name3
+  - no name2
+  - ninfea8
+  - ninfea7
+  - ninfea6
+  - ninfea11
+  - ninfea10
+  - ninfea-yume2kki1
+  - new01
+  - nazoKotoba_Anon
+  - nazoKotoba5_Anon
+  - nazoKotoba4_Anon
+  - nazoKotoba3_Anon
+  - nazoKotoba2_Anon
+  - loop_73
+  - loop_47
+  - light-4
+  - kira@ネコノハ
+  - kameria-themepark
+  - fuwafuwa-byzetsu
+  - fc-2
+  - fc-1
+  - e36
+  - e2
+  - e13
+  - dndnstep_anon
+  - dedp_no name2
+  - dedp_no name
+  - dedp_marumaru
+  - dedp_bgm9
+  - dedp_BBPSampleKit3 - Nu Skool Breaks 095 140 BPM
+  - dedp_BBPSampleKit3 - Nu Skool Breaks
+  - bo
+  - bgm5
+  - bgm078
+  - bgm018
+  - bgm014
+  - bgm004
+  - bgm-1
+  - anbi1
+  - affun3
+  - aau_anon
+  - SONG3
+  - RIMA-bgm-read001
+  - RIMA-bgm-farm001
+  - RIMA-bgm-elepi001
+  - NMDorg_Anon
+  - Marinesnow S
+  - Marinesnow M
+  - KPC_gamen_01
+  - KPC_gamen_00
+  - K-maze_sys11
+  - K-maze_sys10
+  - K-maze_sys09
+  - K-maze_sys08
+  - K-maze_sys07
+  - K-maze_sys06
+  - K-maze_sys05
+  - K-maze_sys04
+  - K-maze_sys03
+  - K-maze_sys02
+  - K-maze_sys01
+  - K-maze_sys00
+  - K-maze_11b
+  - K-maze_11a
+  - K-maze_10b
+  - K-maze_10a
+  - K-maze_09b
+  - K-maze_09a
+  - K-maze_08b
+  - K-maze_08a
+  - K-maze_07b
+  - K-maze_07a
+  - K-maze_06b
+  - K-maze_06a
+  - K-maze_05b
+  - K-maze_05a
+  - K-maze_04b
+  - K-maze_04a
+  - K-maze_03b
+  - K-maze_03a
+  - K-maze_02b
+  - K-maze_02a
+  - K-maze_01b
+  - K-maze_01a
+  - F
+  - Earth tremor
+  - E
+  - Drone
+  - Ainokatachi2_Anon
+  - 8_
+  - 710_ma
+  - 710_Charset_ED01
+  - 5
+  - 4
+  - 2i9_pano13
+  - 2i9_pano12kaihen
+  - 2_7
+  - 2_3
+
+[<!>/魔王魂-se-飲む02] 使用回数: 2 回
+  マップファイル名:[Map0320.lmu]
+    イベントID:[35] イベント名:[EV0035] 位置:[X:15, Y:4]
+      Page:[1]
+        L0001:◆効果音の演奏
+      Page:[4]
+        L0001:◆効果音の演奏
+
+[<!>/風船ひねり] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[101] イベント名:[EV0101] 位置:[X:47, Y:18]
+      Page:[2]
+        L0001:◆効果音の演奏
+
+[<!>/爆撃機] 使用回数: 1 回
+  マップファイル名:[Map0389.lmu]
+    イベントID:[71] イベント名:[EV0071] 位置:[X:125, Y:5]
+      Page:[1]
+        L0001:◆ピクチャーの表示
+
+[<!>/水族館_ネコノハヤシロ] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[9]
+        L0018:◆BGMの演奏
+
+[<!>/黒猫、白猫] 使用回数: 1 回
+  マップファイル名:[Map0397.lmu]
+    イベントID:[127] イベント名:[赤姐さん] 位置:[X:3, Y:5]
+      Page:[1]
+        L0002:◆キャラクターの動作指定
+          L0002:キャラクターグラフィックの変更
+
+[<!>/光のオルゴール＠アノン] 使用回数: 4 回
+  マップファイル名:[Map0230.lmu]
+    イベントID:[85] イベント名:[EV0085] 位置:[X:19, Y:88]
+      Page:[1]
+        L0040:◆BGMの演奏
+  マップファイル名:[Map0658.lmu]
+    イベントID:[10] イベント名:[EV0010] 位置:[X:26, Y:28]
+      Page:[1]
+        L0004:◆BGMの演奏
+  マップファイル名:[Map0715.lmu]
+    イベントID:[2] イベント名:[EV0002 BGM] 位置:[X:1, Y:0]
+      Page:[1]
+        L3512:◆BGMの演奏
+        L3519:◆BGMの演奏
+
+[<!>/悪夢に潜む真実の壺] 使用回数: 1 回
+  マップファイル名:[Map0715.lmu]
+    イベントID:[2] イベント名:[EV0002 BGM] 位置:[X:1, Y:0]
+      Page:[1]
+        L3491:◆BGMの演奏
+
+[<!>/ループ「マグマ・熔鉱炉」By音師竹内] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[2]
+        L0023:◆BGMの演奏
+
+[<!>/ポロロ] 使用回数: 1 回
+  マップファイル名:[Map0482.lmu]
+    イベントID:[26] イベント名:[EV0026] 位置:[X:14, Y:77]
+      Page:[2]
+        L0031:◆BGMの演奏
+
+[<!>/ファイル　ファイル　ファイル　ファイル　ファイル　ファイル　ファイル　ファイル　ファイル　ファイル] 使用回数: 1 回
+  マップファイル名:[Map0020.lmu]
+    イベントID:[11] イベント名:[>>20の本棚] 位置:[X:20, Y:16]
+      Page:[1]
+        L0093:◆ピクチャーの表示
+
+[<!>/カレイドビジョン019] 使用回数: 7 回
+  マップファイル名:[Map0676.lmu]
+    イベントID:[88] イベント名:[危険度判定] 位置:[X:3, Y:0]
+      Page:[1]
+        L0005:◆ピクチャーの表示
+      Page:[2]
+        L0005:◆ピクチャーの表示
+      Page:[3]
+        L0005:◆ピクチャーの表示
+      Page:[4]
+        L0005:◆ピクチャーの表示
+        L0008:◆ピクチャーの表示
+        L0011:◆ピクチャーの表示
+        L0022:◆ピクチャーの表示
+
+[<!>/のん_0001] 使用回数: 1 回
+  マップファイル名:[Map0043.lmu]
+    イベントID:[2] イベント名:[初期設定] 位置:[X:0, Y:1]
+      Page:[1]
+        L0004:◆ムービーの再生
+
+[<!>/yume2kki3 by.REO] 使用回数: 1 回
+  マップファイル名:[Map0693.lmu]
+    イベントID:[26] イベント名:[彼岸花] 位置:[X:2, Y:19]
+      Page:[1]
+        L0011:◆BGMの演奏
+
+[<!>/yume2kki-short remix] 使用回数: 3 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[29] イベント名:[EV0029] 位置:[X:55, Y:26]
+      Page:[1]
+        L0009:◆BGMの演奏
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[9]
+        L0001:◆BGMの演奏
+  マップファイル名:[Map0640.lmu]
+    イベントID:[237] イベント名:[EV0237] 位置:[X:2, Y:15]
+      Page:[1]
+        L0010:◆BGMの演奏
+
+[<!>/yasuragi+image] 使用回数: 2 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[101] イベント名:[EV0101] 位置:[X:47, Y:18]
+      Page:[3]
+        L0031:◆BGMの演奏
+    イベントID:[109] イベント名:[EV0109] 位置:[X:37, Y:16]
+      Page:[3]
+        L0001:◆BGMの演奏
+
+[<!>/waraiuta_anon] 使用回数: 2 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[101] イベント名:[EV0101] 位置:[X:47, Y:18]
+      Page:[3]
+        L0023:◆BGMの演奏
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[9]
+        L0017:◆BGMの演奏
+
+[<!>/title_3] 使用回数: 2 回
+  マップファイル名:[Map0482.lmu]
+    イベントID:[26] イベント名:[EV0026] 位置:[X:14, Y:77]
+      Page:[2]
+        L0032:◆BGMの演奏
+        L0033:◆BGMの演奏
+
+[<!>/title3_3] 使用回数: 1 回
+  マップファイル名:[Map0482.lmu]
+    イベントID:[26] イベント名:[EV0026] 位置:[X:14, Y:77]
+      Page:[2]
+        L0034:◆BGMの演奏
+
+[<!>/title2_3] 使用回数: 1 回
+  マップファイル名:[Map0068.lmu]
+    イベントID:[89] イベント名:[EV0089] 位置:[X:3, Y:188]
+      Page:[1]
+        L0006:◆BGMの演奏
+
+[<!>/tech1] 使用回数: 1 回
+  マップファイル名:[Map0482.lmu]
+    イベントID:[26] イベント名:[EV0026] 位置:[X:14, Y:77]
+      Page:[2]
+        L0030:◆BGMの演奏
+
+[<!>/system_08] 使用回数: 1 回
+  マップファイル名:[Map0002.lmu]
+    イベントID:[25] イベント名:[EV0025] 位置:[X:5, Y:6]
+      Page:[1]
+        L0016:◆ピクチャーの表示
+
+[<!>/spelude-6] 使用回数: 3 回
+  マップファイル名:[Map0693.lmu]
+    イベントID:[1] イベント名:[幸福と不幸] 位置:[X:1, Y:5]
+      Page:[1]
+        L0010:◆BGMの演奏
+    イベントID:[39] イベント名:[くれなゐ] 位置:[X:21, Y:41]
+      Page:[1]
+        L0010:◆BGMの演奏
+    イベントID:[41] イベント名:[惑祈契霊] 位置:[X:7, Y:48]
+      Page:[1]
+        L0010:◆BGMの演奏
+
+[<!>/spelude-4] 使用回数: 1 回
+  マップファイル名:[Map0693.lmu]
+    イベントID:[21] イベント名:[手紙] 位置:[X:29, Y:25]
+      Page:[1]
+        L0010:◆BGMの演奏
+
+[<!>/spelude-32] 使用回数: 1 回
+  マップファイル名:[Map0693.lmu]
+    イベントID:[50] イベント名:[花鳥風月] 位置:[X:15, Y:61]
+      Page:[1]
+        L0010:◆BGMの演奏
+
+[<!>/spelude-31] 使用回数: 1 回
+  マップファイル名:[Map0715.lmu]
+    イベントID:[2] イベント名:[EV0002 BGM] 位置:[X:1, Y:0]
+      Page:[1]
+        L2854:◆BGMの演奏
+
+[<!>/spelude-3] 使用回数: 1 回
+  マップファイル名:[Map0693.lmu]
+    イベントID:[19] イベント名:[砕け散った何かの破片] 位置:[X:27, Y:16]
+      Page:[1]
+        L0010:◆BGMの演奏
+
+[<!>/spelude-25] 使用回数: 1 回
+  マップファイル名:[Map0693.lmu]
+    イベントID:[13] イベント名:[水の底] 位置:[X:2, Y:26]
+      Page:[1]
+        L0011:◆BGMの演奏
+
+[<!>/spelude-23] 使用回数: 1 回
+  マップファイル名:[Map0693.lmu]
+    イベントID:[4] イベント名:[光と闇] 位置:[X:19, Y:8]
+      Page:[1]
+        L0010:◆BGMの演奏
+
+[<!>/spelude-22] 使用回数: 2 回
+  マップファイル名:[Map0693.lmu]
+    イベントID:[7] イベント名:[春] 位置:[X:7, Y:15]
+      Page:[1]
+        L0010:◆BGMの演奏
+      Page:[2]
+        L0010:◆BGMの演奏
+
+[<!>/spelude-20] 使用回数: 1 回
+  マップファイル名:[Map0693.lmu]
+    イベントID:[24] イベント名:[茨の巫女] 位置:[X:25, Y:30]
+      Page:[1]
+        L0010:◆BGMの演奏
+
+[<!>/spelude-2] 使用回数: 1 回
+  マップファイル名:[Map0693.lmu]
+    イベントID:[32] イベント名:[実験報告] 位置:[X:29, Y:5]
+      Page:[1]
+        L0010:◆BGMの演奏
+
+[<!>/spelude-17] 使用回数: 1 回
+  マップファイル名:[Map0693.lmu]
+    イベントID:[10] イベント名:[羊と夢] 位置:[X:18, Y:15]
+      Page:[1]
+        L0010:◆BGMの演奏
+
+[<!>/spelude-14] 使用回数: 1 回
+  マップファイル名:[Map0693.lmu]
+    イベントID:[3] イベント名:[神秘の笛] 位置:[X:14, Y:4]
+      Page:[1]
+        L0010:◆BGMの演奏
+
+[<!>/spelude-12] 使用回数: 3 回
+  マップツリーファイル名:[RPG_RT.lmt]
+    ID:0696 [MAP0696　無垢夢]
+      BGM
+  マップファイル名:[Map0693.lmu]
+    イベントID:[28] イベント名:[凍った心] 位置:[X:14, Y:28]
+      Page:[1]
+        L0010:◆BGMの演奏
+  マップファイル名:[Map0715.lmu]
+    イベントID:[2] イベント名:[EV0002 BGM] 位置:[X:1, Y:0]
+      Page:[1]
+        L2812:◆BGMの演奏
+
+[<!>/spelude-11] 使用回数: 2 回
+  マップファイル名:[Map0693.lmu]
+    イベントID:[5] イベント名:[覚めない夢の中] 位置:[X:25, Y:10]
+      Page:[1]
+        L0010:◆BGMの演奏
+      Page:[2]
+        L0010:◆BGMの演奏
+
+[<!>/spelude-10] 使用回数: 1 回
+  マップファイル名:[Map0693.lmu]
+    イベントID:[13] イベント名:[水の底] 位置:[X:2, Y:26]
+      Page:[2]
+        L0011:◆BGMの演奏
+
+[<!>/spelude-1] 使用回数: 1 回
+  マップファイル名:[Map0693.lmu]
+    イベントID:[18] イベント名:[重なる知識] 位置:[X:31, Y:12]
+      Page:[1]
+        L0010:◆BGMの演奏
+
+[<!>/soundshop-89maturi] 使用回数: 2 回
+  マップファイル名:[Map0001.lmu]
+    イベントID:[57] イベント名:[EV0057] 位置:[X:17, Y:1]
+      Page:[1]
+        L0075:◆BGMの演奏
+  マップファイル名:[Map0006.lmu]
+    イベントID:[19] イベント名:[EV0019 SR終了もココ] 位置:[X:0, Y:14]
+      Page:[2]
+        L0045:◆BGMの演奏
+
+[<!>/sound4c] 使用回数: 1 回
+  マップファイル名:[Map0482.lmu]
+    イベントID:[26] イベント名:[EV0026] 位置:[X:14, Y:77]
+      Page:[2]
+        L0029:◆BGMの演奏
+
+[<!>/sound3c_] 使用回数: 1 回
+  マップファイル名:[Map0482.lmu]
+    イベントID:[26] イベント名:[EV0026] 位置:[X:14, Y:77]
+      Page:[2]
+        L0028:◆BGMの演奏
+
+[<!>/sound3c] 使用回数: 1 回
+  マップファイル名:[Map0482.lmu]
+    イベントID:[26] イベント名:[EV0026] 位置:[X:14, Y:77]
+      Page:[2]
+        L0027:◆BGMの演奏
+
+[<!>/sound3b] 使用回数: 2 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[101] イベント名:[EV0101] 位置:[X:47, Y:18]
+      Page:[3]
+        L0036:◆BGMの演奏
+  マップファイル名:[Map0482.lmu]
+    イベントID:[26] イベント名:[EV0026] 位置:[X:14, Y:77]
+      Page:[2]
+        L0026:◆BGMの演奏
+
+[<!>/sennou] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[2]
+        L0015:◆BGMの演奏
+
+[<!>/rnt_water_r] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[101] イベント名:[EV0101] 位置:[X:47, Y:18]
+      Page:[1]
+        L0004:◆BGMの演奏
+
+[<!>/rnt_repeat] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[101] イベント名:[EV0101] 位置:[X:47, Y:18]
+      Page:[1]
+        L0003:◆BGMの演奏
+
+[<!>/rnt_akarusugi] 使用回数: 7 回
+  マップファイル名:[Map0655.lmu]
+    イベントID:[61] イベント名:[EV0061] 位置:[X:87, Y:47]
+      Page:[1]
+        L0006:◆BGMの演奏
+    イベントID:[62] イベント名:[EV0062] 位置:[X:87, Y:48]
+      Page:[1]
+        L0006:◆BGMの演奏
+  マップファイル名:[Map0658.lmu]
+    イベントID:[17] イベント名:[EV0017] 位置:[X:42, Y:29]
+      Page:[1]
+        L0004:◆BGMの演奏
+    イベントID:[18] イベント名:[EV0018] 位置:[X:43, Y:29]
+      Page:[1]
+        L0004:◆BGMの演奏
+  マップファイル名:[Map0659.lmu]
+    イベントID:[109] イベント名:[EV0109] 位置:[X:102, Y:11]
+      Page:[1]
+        L0003:◆BGMの演奏
+    イベントID:[110] イベント名:[EV0110] 位置:[X:128, Y:12]
+      Page:[1]
+        L0003:◆BGMの演奏
+  マップファイル名:[Map0715.lmu]
+    イベントID:[2] イベント名:[EV0002 BGM] 位置:[X:1, Y:0]
+      Page:[1]
+        L2571:◆BGMの演奏
+
+[<!>/pikopiko] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[2]
+        L0009:◆BGMの演奏
+
+[<!>/piano1_] 使用回数: 1 回
+  マップファイル名:[Map0482.lmu]
+    イベントID:[26] イベント名:[EV0026] 位置:[X:14, Y:77]
+      Page:[2]
+        L0025:◆BGMの演奏
+
+[<!>/piano] 使用回数: 2 回
+  データベース
+    コモンイベント
+      0219:#<TkoolEventData:0x30bb6cc>
+        L0909:◆BGMの演奏
+      0253:#<TkoolEventData:0x2bdb7ec>
+        L0827:◆BGMの演奏
+
+[<!>/owari4 by.sakai] 使用回数: 11 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[101] イベント名:[EV0101] 位置:[X:47, Y:18]
+      Page:[3]
+        L0040:◆BGMの演奏
+  マップファイル名:[Map0660.lmu]
+    イベントID:[10] イベント名:[EV0010] 位置:[X:56, Y:64]
+      Page:[1]
+        L0034:◆BGMの演奏
+    イベントID:[11] イベント名:[EV0011] 位置:[X:42, Y:27]
+      Page:[1]
+        L0034:◆BGMの演奏
+    イベントID:[12] イベント名:[EV0012] 位置:[X:25, Y:0]
+      Page:[1]
+        L0034:◆BGMの演奏
+    イベントID:[13] イベント名:[EV0013] 位置:[X:8, Y:32]
+      Page:[1]
+        L0034:◆BGMの演奏
+    イベントID:[14] イベント名:[EV0014] 位置:[X:7, Y:64]
+      Page:[1]
+        L0034:◆BGMの演奏
+    イベントID:[15] イベント名:[EV0015] 位置:[X:60, Y:8]
+      Page:[1]
+        L0034:◆BGMの演奏
+    イベントID:[16] イベント名:[EV0016] 位置:[X:60, Y:49]
+      Page:[1]
+        L0034:◆BGMの演奏
+    イベントID:[17] イベント名:[EV0017] 位置:[X:24, Y:51]
+      Page:[1]
+        L0034:◆BGMの演奏
+  マップファイル名:[Map0693.lmu]
+    イベントID:[48] イベント名:[存在] 位置:[X:1, Y:62]
+      Page:[1]
+        L0010:◆BGMの演奏
+  マップファイル名:[Map0715.lmu]
+    イベントID:[2] イベント名:[EV0002 BGM] 位置:[X:1, Y:0]
+      Page:[1]
+        L2307:◆BGMの演奏
+
+[<!>/owari3 by.sakai] 使用回数: 1 回
+  マップファイル名:[Map0715.lmu]
+    イベントID:[2] イベント名:[EV0002 BGM] 位置:[X:1, Y:0]
+      Page:[1]
+        L2299:◆BGMの演奏
+
+[<!>/owari1] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[101] イベント名:[EV0101] 位置:[X:47, Y:18]
+      Page:[3]
+        L0035:◆BGMの演奏
+
+[<!>/or] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[9]
+        L0016:◆BGMの演奏
+
+[<!>/no name3] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[2]
+        L0007:◆BGMの演奏
+
+[<!>/no name2] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[2]
+        L0019:◆BGMの演奏
+
+[<!>/ninfea8] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[109] イベント名:[EV0109] 位置:[X:37, Y:16]
+      Page:[1]
+        L0064:◆BGMの演奏
+
+[<!>/ninfea7] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[109] イベント名:[EV0109] 位置:[X:37, Y:16]
+      Page:[1]
+        L0063:◆BGMの演奏
+
+[<!>/ninfea6] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[109] イベント名:[EV0109] 位置:[X:37, Y:16]
+      Page:[1]
+        L0062:◆BGMの演奏
+
+[<!>/ninfea11] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[109] イベント名:[EV0109] 位置:[X:37, Y:16]
+      Page:[1]
+        L0066:◆BGMの演奏
+
+[<!>/ninfea10] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[109] イベント名:[EV0109] 位置:[X:37, Y:16]
+      Page:[1]
+        L0065:◆BGMの演奏
+
+[<!>/ninfea-yume2kki1] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[101] イベント名:[EV0101] 位置:[X:47, Y:18]
+      Page:[3]
+        L0014:◆BGMの演奏
+
+[<!>/new01] 使用回数: 2 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[109] イベント名:[EV0109] 位置:[X:37, Y:16]
+      Page:[1]
+        L0078:◆BGMの演奏
+        L0079:◆BGMの演奏
+
+[<!>/nazoKotoba_Anon] 使用回数: 2 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[101] イベント名:[EV0101] 位置:[X:47, Y:18]
+      Page:[2]
+        L0002:◆効果音の演奏
+    イベントID:[355] イベント名:[EV0355] 位置:[X:220, Y:66]
+      Page:[1]
+        L0002:◆キャラクターの動作指定
+          L0011:効果音
+
+[<!>/nazoKotoba5_Anon] 使用回数: 4 回
+  マップファイル名:[Map0490.lmu]
+    イベントID:[78] イベント名:[EV0078] 位置:[X:80, Y:23]
+      Page:[1]
+        L0001:◆効果音の演奏
+  マップファイル名:[Map0636.lmu]
+    イベントID:[171] イベント名:[EV0171] 位置:[X:25, Y:28]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[172] イベント名:[EV0172] 位置:[X:24, Y:28]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[173] イベント名:[EV0173] 位置:[X:27, Y:28]
+      Page:[1]
+        L0001:◆効果音の演奏
+
+[<!>/nazoKotoba4_Anon] 使用回数: 1 回
+  マップファイル名:[Map0490.lmu]
+    イベントID:[77] イベント名:[EV0077] 位置:[X:30, Y:69]
+      Page:[1]
+        L0001:◆効果音の演奏
+
+[<!>/nazoKotoba3_Anon] 使用回数: 96 回
+  マップファイル名:[Map0636.lmu]
+    イベントID:[100] イベント名:[EV0100] 位置:[X:31, Y:58]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[101] イベント名:[EV0101] 位置:[X:32, Y:58]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[102] イベント名:[EV0102] 位置:[X:33, Y:58]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[103] イベント名:[EV0103] 位置:[X:38, Y:75]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[104] イベント名:[EV0104] 位置:[X:39, Y:75]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[105] イベント名:[EV0105] 位置:[X:40, Y:75]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[106] イベント名:[EV0106] 位置:[X:43, Y:44]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[107] イベント名:[EV0107] 位置:[X:44, Y:44]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[108] イベント名:[EV0108] 位置:[X:45, Y:44]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[109] イベント名:[EV0109] 位置:[X:49, Y:64]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[110] イベント名:[EV0110] 位置:[X:50, Y:64]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[111] イベント名:[EV0111] 位置:[X:51, Y:64]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[112] イベント名:[EV0112] 位置:[X:63, Y:1]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[113] イベント名:[EV0113] 位置:[X:64, Y:1]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[114] イベント名:[EV0114] 位置:[X:65, Y:1]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[115] イベント名:[EV0115] 位置:[X:83, Y:12]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[116] イベント名:[EV0116] 位置:[X:84, Y:12]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[117] イベント名:[EV0117] 位置:[X:85, Y:12]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[118] イベント名:[EV0118] 位置:[X:72, Y:22]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[119] イベント名:[EV0119] 位置:[X:73, Y:22]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[120] イベント名:[EV0120] 位置:[X:74, Y:22]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[121] イベント名:[EV0121] 位置:[X:63, Y:26]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[122] イベント名:[EV0122] 位置:[X:64, Y:26]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[123] イベント名:[EV0123] 位置:[X:65, Y:26]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[124] イベント名:[EV0124] 位置:[X:74, Y:40]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[125] イベント名:[EV0125] 位置:[X:75, Y:40]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[126] イベント名:[EV0126] 位置:[X:76, Y:40]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[127] イベント名:[EV0127] 位置:[X:66, Y:53]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[128] イベント名:[EV0128] 位置:[X:67, Y:53]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[129] イベント名:[EV0129] 位置:[X:68, Y:53]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[130] イベント名:[EV0130] 位置:[X:88, Y:48]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[131] イベント名:[EV0131] 位置:[X:89, Y:48]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[132] イベント名:[EV0132] 位置:[X:90, Y:48]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[133] イベント名:[EV0133] 位置:[X:72, Y:65]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[134] イベント名:[EV0134] 位置:[X:73, Y:65]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[135] イベント名:[EV0135] 位置:[X:74, Y:65]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[136] イベント名:[EV0136] 位置:[X:89, Y:67]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[137] イベント名:[EV0137] 位置:[X:90, Y:67]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[138] イベント名:[EV0138] 位置:[X:91, Y:67]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[139] イベント名:[EV0139] 位置:[X:79, Y:75]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[140] イベント名:[EV0140] 位置:[X:80, Y:75]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[141] イベント名:[EV0141] 位置:[X:81, Y:75]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[142] イベント名:[EV0142] 位置:[X:61, Y:78]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[143] イベント名:[EV0143] 位置:[X:62, Y:78]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[144] イベント名:[EV0144] 位置:[X:63, Y:78]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[145] イベント名:[EV0145] 位置:[X:54, Y:89]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[146] イベント名:[EV0146] 位置:[X:55, Y:89]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[147] イベント名:[EV0147] 位置:[X:56, Y:89]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[148] イベント名:[EV0148] 位置:[X:64, Y:98]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[149] イベント名:[EV0149] 位置:[X:65, Y:98]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[150] イベント名:[EV0150] 位置:[X:66, Y:98]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[151] イベント名:[EV0151] 位置:[X:74, Y:91]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[152] イベント名:[EV0152] 位置:[X:75, Y:91]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[153] イベント名:[EV0153] 位置:[X:76, Y:91]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[154] イベント名:[EV0154] 位置:[X:96, Y:88]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[155] イベント名:[EV0155] 位置:[X:97, Y:88]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[156] イベント名:[EV0156] 位置:[X:98, Y:88]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[43] イベント名:[EV0043] 位置:[X:10, Y:17]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[44] イベント名:[EV0044] 位置:[X:11, Y:17]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[49] イベント名:[EV0049] 位置:[X:9, Y:17]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[51] イベント名:[EV0051] 位置:[X:26, Y:11]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[52] イベント名:[EV0052] 位置:[X:27, Y:11]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[53] イベント名:[EV0053] 位置:[X:28, Y:11]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[65] イベント名:[EV0065] 位置:[X:3, Y:31]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[66] イベント名:[EV0066] 位置:[X:4, Y:31]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[67] イベント名:[EV0067] 位置:[X:5, Y:31]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[68] イベント名:[EV0068] 位置:[X:18, Y:23]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[69] イベント名:[EV0069] 位置:[X:19, Y:23]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[70] イベント名:[EV0070] 位置:[X:20, Y:23]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[71] イベント名:[EV0071] 位置:[X:38, Y:19]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[72] イベント名:[EV0072] 位置:[X:39, Y:19]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[73] イベント名:[EV0073] 位置:[X:40, Y:19]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[74] イベント名:[EV0074] 位置:[X:31, Y:31]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[75] イベント名:[EV0075] 位置:[X:32, Y:31]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[76] イベント名:[EV0076] 位置:[X:33, Y:31]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[77] イベント名:[EV0077] 位置:[X:18, Y:43]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[78] イベント名:[EV0078] 位置:[X:19, Y:43]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[79] イベント名:[EV0079] 位置:[X:20, Y:43]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[80] イベント名:[EV0080] 位置:[X:10, Y:49]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[81] イベント名:[EV0081] 位置:[X:11, Y:49]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[82] イベント名:[EV0082] 位置:[X:12, Y:49]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[83] イベント名:[EV0083] 位置:[X:0, Y:63]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[84] イベント名:[EV0084] 位置:[X:1, Y:63]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[85] イベント名:[EV0085] 位置:[X:2, Y:63]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[86] イベント名:[EV0086] 位置:[X:1, Y:84]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[87] イベント名:[EV0087] 位置:[X:2, Y:84]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[88] イベント名:[EV0088] 位置:[X:3, Y:84]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[89] イベント名:[EV0089] 位置:[X:13, Y:78]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[90] イベント名:[EV0090] 位置:[X:14, Y:78]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[91] イベント名:[EV0091] 位置:[X:15, Y:78]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[92] イベント名:[EV0092] 位置:[X:9, Y:91]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[93] イベント名:[EV0093] 位置:[X:10, Y:91]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[96] イベント名:[EV0096] 位置:[X:11, Y:91]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[97] イベント名:[EV0097] 位置:[X:28, Y:91]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[98] イベント名:[EV0098] 位置:[X:29, Y:91]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[99] イベント名:[EV0099] 位置:[X:30, Y:91]
+      Page:[1]
+        L0001:◆効果音の演奏
+
+[<!>/nazoKotoba2_Anon] 使用回数: 17 回
+  マップファイル名:[Map0488.lmu]
+    イベントID:[165] イベント名:[EV0165] 位置:[X:54, Y:136]
+      Page:[1]
+        L0001:◆効果音の演奏
+  マップファイル名:[Map0636.lmu]
+    イベントID:[45] イベント名:[EV0045] 位置:[X:3, Y:13]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[46] イベント名:[EV0046] 位置:[X:15, Y:5]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[47] イベント名:[EV0047] 位置:[X:41, Y:10]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[48] イベント名:[EV0048] 位置:[X:39, Y:43]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[50] イベント名:[EV0050] 位置:[X:14, Y:48]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[54] イベント名:[EV0054] 位置:[X:53, Y:15]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[55] イベント名:[EV0055] 位置:[X:52, Y:32]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[56] イベント名:[EV0056] 位置:[X:29, Y:57]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[57] イベント名:[EV0057] 位置:[X:69, Y:25]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[58] イベント名:[EV0058] 位置:[X:91, Y:6]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[59] イベント名:[EV0059] 位置:[X:78, Y:61]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[60] イベント名:[EV0060] 位置:[X:93, Y:84]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[61] イベント名:[EV0061] 位置:[X:72, Y:88]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[62] イベント名:[EV0062] 位置:[X:49, Y:81]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[63] イベント名:[EV0063] 位置:[X:40, Y:98]
+      Page:[1]
+        L0001:◆効果音の演奏
+    イベントID:[64] イベント名:[EV0064] 位置:[X:24, Y:89]
+      Page:[1]
+        L0001:◆効果音の演奏
+
+[<!>/loop_73] 使用回数: 1 回
+  マップファイル名:[Map0715.lmu]
+    イベントID:[2] イベント名:[EV0002 BGM] 位置:[X:1, Y:0]
+      Page:[1]
+        L1789:◆BGMの演奏
+
+[<!>/loop_47] 使用回数: 1 回
+  マップファイル名:[Map0715.lmu]
+    イベントID:[2] イベント名:[EV0002 BGM] 位置:[X:1, Y:0]
+      Page:[1]
+        L1782:◆BGMの演奏
+
+[<!>/light-4] 使用回数: 4 回
+  マップファイル名:[Map0820.lmu]
+    イベントID:[1] イベント名:[EV0001] 位置:[X:2, Y:3]
+      Page:[1][グラフィック]
+      Page:[2][グラフィック]
+    イベントID:[3] イベント名:[EV0003] 位置:[X:27, Y:13]
+      Page:[1][グラフィック]
+      Page:[2][グラフィック]
+
+[<!>/kira@ネコノハ] 使用回数: 3 回
+  マップファイル名:[Map0658.lmu]
+    イベントID:[13] イベント名:[EV0013] 位置:[X:10, Y:47]
+      Page:[1]
+        L0002:◆BGMの演奏
+    イベントID:[14] イベント名:[EV0014] 位置:[X:13, Y:47]
+      Page:[1]
+        L0002:◆BGMの演奏
+  マップファイル名:[Map0715.lmu]
+    イベントID:[2] イベント名:[EV0002 BGM] 位置:[X:1, Y:0]
+      Page:[1]
+        L1712:◆BGMの演奏
+
+[<!>/kameria-themepark] 使用回数: 5 回
+  マップファイル名:[Map0056.lmu]
+    イベントID:[68] イベント名:[EV0068] 位置:[X:145, Y:82]
+      Page:[1]
+        L0020:◆BGMの演奏
+    イベントID:[70] イベント名:[EV0070] 位置:[X:145, Y:83]
+      Page:[1]
+        L0020:◆BGMの演奏
+    イベントID:[77] イベント名:[EV0077] 位置:[X:145, Y:96]
+      Page:[1]
+        L0019:◆BGMの演奏
+    イベントID:[93] イベント名:[EV0093] 位置:[X:145, Y:97]
+      Page:[1]
+        L0019:◆BGMの演奏
+  マップファイル名:[Map0186.lmu]
+    イベントID:[517] イベント名:[EV0517] 位置:[X:55, Y:9]
+      Page:[1]
+        L0001:◆BGMの演奏
+
+[<!>/fuwafuwa-byzetsu] 使用回数: 5 回
+  マップファイル名:[Map0656.lmu]
+    イベントID:[31] イベント名:[EV0031] 位置:[X:8, Y:5]
+      Page:[1]
+        L0004:◆BGMの演奏
+    イベントID:[32] イベント名:[EV0032] 位置:[X:9, Y:5]
+      Page:[1]
+        L0004:◆BGMの演奏
+  マップファイル名:[Map0658.lmu]
+    イベントID:[15] イベント名:[EV0015] 位置:[X:14, Y:28]
+      Page:[1]
+        L0003:◆BGMの演奏
+    イベントID:[21] イベント名:[EV0021] 位置:[X:14, Y:27]
+      Page:[1]
+        L0003:◆BGMの演奏
+  マップファイル名:[Map0715.lmu]
+    イベントID:[2] イベント名:[EV0002 BGM] 位置:[X:1, Y:0]
+      Page:[1]
+        L1575:◆BGMの演奏
+
+[<!>/fc-2] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[2]
+        L0005:◆BGMの演奏
+
+[<!>/fc-1] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[2]
+        L0003:◆BGMの演奏
+
+[<!>/e36] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[9]
+        L0005:◆BGMの演奏
+
+[<!>/e2] 使用回数: 1 回
+  マップファイル名:[Map0482.lmu]
+    イベントID:[26] イベント名:[EV0026] 位置:[X:14, Y:77]
+      Page:[2]
+        L0020:◆BGMの演奏
+
+[<!>/e13] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[109] イベント名:[EV0109] 位置:[X:37, Y:16]
+      Page:[1]
+        L0072:◆BGMの演奏
+
+[<!>/dndnstep_anon] 使用回数: 9 回
+  マップファイル名:[Map0656.lmu]
+    イベントID:[202] イベント名:[EV0202] 位置:[X:108, Y:99]
+      Page:[2]
+        L0006:◆BGMの演奏
+    イベントID:[203] イベント名:[EV0203] 位置:[X:109, Y:99]
+      Page:[2]
+        L0006:◆BGMの演奏
+    イベントID:[29] イベント名:[EV0029 入り口・左] 位置:[X:9, Y:92]
+      Page:[1]
+        L0013:◆BGMの演奏
+    イベントID:[30] イベント名:[EV0030 入り口・右] 位置:[X:10, Y:92]
+      Page:[1]
+        L0013:◆BGMの演奏
+  マップファイル名:[Map0660.lmu]
+    イベントID:[18] イベント名:[EV0018 スター] 位置:[X:55, Y:19]
+      Page:[2]
+        L0011:◆BGMの演奏
+    イベントID:[19] イベント名:[EV0019] 位置:[X:17, Y:39]
+      Page:[2]
+        L0006:◆BGMの演奏
+  マップファイル名:[Map0683.lmu]
+    イベントID:[20] イベント名:[じはんきじゃんぷ] 位置:[X:36, Y:24]
+      Page:[1]
+        L0371:◆BGMの演奏
+      Page:[3]
+        L0164:◆BGMの演奏
+  マップファイル名:[Map0715.lmu]
+    イベントID:[2] イベント名:[EV0002 BGM] 位置:[X:1, Y:0]
+      Page:[1]
+        L1293:◆BGMの演奏
+
+[<!>/dedp_no name2] 使用回数: 1 回
+  マップファイル名:[Map0111.lmu]
+    イベントID:[54] イベント名:[EV0054] 位置:[X:11, Y:12]
+      Page:[2]
+        L0001:◆効果音の演奏
+
+[<!>/dedp_no name] 使用回数: 1 回
+  マップファイル名:[Map0111.lmu]
+    イベントID:[55] イベント名:[EV0055] 位置:[X:9, Y:12]
+      Page:[2]
+        L0001:◆効果音の演奏
+
+[<!>/dedp_marumaru] 使用回数: 1 回
+  マップファイル名:[Map0254.lmu]
+    遠景
+      グラフィック
+
+[<!>/dedp_bgm9] 使用回数: 4 回
+  データベース
+    コモンイベント
+      0219:#<TkoolEventData:0x30bb6cc>
+        L1047:◆BGMの演奏
+      0253:#<TkoolEventData:0x2bdb7ec>
+        L0953:◆BGMの演奏
+  マップツリーファイル名:[RPG_RT.lmt]
+    ID:0140 [MAP0140 魔方陣]
+      BGM
+  マップファイル名:[Map0006.lmu]
+    イベントID:[19] イベント名:[EV0019 SR終了もココ] 位置:[X:0, Y:14]
+      Page:[2]
+        L0020:◆BGMの演奏
+
+[<!>/dedp_BBPSampleKit3 - Nu Skool Breaks 095 140 BPM] 使用回数: 3 回
+  データベース
+    コモンイベント
+      0219:#<TkoolEventData:0x30bb6cc>
+        L1759:◆BGMの演奏
+      0253:#<TkoolEventData:0x2bdb7ec>
+        L1602:◆BGMの演奏
+  マップファイル名:[Map0006.lmu]
+    イベントID:[53] イベント名:[EV0053 曲格納庫] 位置:[X:19, Y:0]
+      Page:[7]
+        L0342:◆BGMの演奏
+
+[<!>/dedp_BBPSampleKit3 - Nu Skool Breaks] 使用回数: 3 回
+  データベース
+    コモンイベント
+      0219:#<TkoolEventData:0x30bb6cc>
+        L1765:◆BGMの演奏
+      0253:#<TkoolEventData:0x2bdb7ec>
+        L1607:◆BGMの演奏
+  マップファイル名:[Map0006.lmu]
+    イベントID:[53] イベント名:[EV0053 曲格納庫] 位置:[X:19, Y:0]
+      Page:[7]
+        L0347:◆BGMの演奏
+
+[<!>/bo] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[9]
+        L0014:◆BGMの演奏
+
+[<!>/bgm5] 使用回数: 1 回
+  マップファイル名:[Map0482.lmu]
+    イベントID:[26] イベント名:[EV0026] 位置:[X:14, Y:77]
+      Page:[2]
+        L0015:◆BGMの演奏
+
+[<!>/bgm078] 使用回数: 1 回
+  マップファイル名:[Map0482.lmu]
+    イベントID:[26] イベント名:[EV0026] 位置:[X:14, Y:77]
+      Page:[2]
+        L0018:◆BGMの演奏
+
+[<!>/bgm018] 使用回数: 1 回
+  マップファイル名:[Map0482.lmu]
+    イベントID:[26] イベント名:[EV0026] 位置:[X:14, Y:77]
+      Page:[2]
+        L0017:◆BGMの演奏
+
+[<!>/bgm014] 使用回数: 1 回
+  マップファイル名:[Map0482.lmu]
+    イベントID:[26] イベント名:[EV0026] 位置:[X:14, Y:77]
+      Page:[2]
+        L0016:◆BGMの演奏
+
+[<!>/bgm004] 使用回数: 1 回
+  マップファイル名:[Map0482.lmu]
+    イベントID:[26] イベント名:[EV0026] 位置:[X:14, Y:77]
+      Page:[2]
+        L0014:◆BGMの演奏
+
+[<!>/bgm-1] 使用回数: 1 回
+  マップファイル名:[Map0482.lmu]
+    イベントID:[26] イベント名:[EV0026] 位置:[X:14, Y:77]
+      Page:[2]
+        L0013:◆BGMの演奏
+
+[<!>/anbi1] 使用回数: 2 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[101] イベント名:[EV0101] 位置:[X:47, Y:18]
+      Page:[3]
+        L0048:◆BGMの演奏
+  マップファイル名:[Map0482.lmu]
+    イベントID:[26] イベント名:[EV0026] 位置:[X:14, Y:77]
+      Page:[2]
+        L0010:◆BGMの演奏
+
+[<!>/affun3] 使用回数: 2 回
+  データベース
+    コモンイベント
+      0042:#<TkoolEventData:0x3031cc4>
+        L0146:◆ピクチャーの表示
+        L0147:◆ピクチャーの表示
+
+[<!>/aau_anon] 使用回数: 26 回
+  マップファイル名:[Map0732.lmu]
+    イベントID:[10] イベント名:[EV0010] 位置:[X:37, Y:13]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[11] イベント名:[EV0011] 位置:[X:37, Y:19]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[12] イベント名:[EV0012] 位置:[X:39, Y:21]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[13] イベント名:[EV0013] 位置:[X:5, Y:25]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[14] イベント名:[EV0014] 位置:[X:36, Y:46]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[15] イベント名:[EV0015] 位置:[X:80, Y:7]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[16] イベント名:[EV0016] 位置:[X:81, Y:28]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[17] イベント名:[EV0017] 位置:[X:79, Y:41]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[18] イベント名:[EV0018] 位置:[X:59, Y:59]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[19] イベント名:[EV0019] 位置:[X:41, Y:21]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[1] イベント名:[EV0001] 位置:[X:22, Y:13]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[20] イベント名:[EV0020] 位置:[X:43, Y:21]
+      Page:[2]
+        L0001:◆効果音の演奏
+    イベントID:[21] イベント名:[EV0021] 位置:[X:38, Y:10]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[22] イベント名:[EV0022] 位置:[X:45, Y:21]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[23] イベント名:[EV0023] 位置:[X:47, Y:21]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[26] イベント名:[EV0026] 位置:[X:28, Y:53]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[27] イベント名:[EV0027] 位置:[X:5, Y:1]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[2] イベント名:[EV0002] 位置:[X:41, Y:10]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[33] イベント名:[EV0033] 位置:[X:5, Y:43]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[3] イベント名:[EV0003] 位置:[X:27, Y:36]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[4] イベント名:[EV0004] 位置:[X:44, Y:10]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[5] イベント名:[EV0005] 位置:[X:56, Y:8]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[6] イベント名:[EV0006] 位置:[X:47, Y:10]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[7] イベント名:[EV0007] 位置:[X:48, Y:13]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[8] イベント名:[EV0008] 位置:[X:47, Y:16]
+      Page:[3]
+        L0001:◆効果音の演奏
+    イベントID:[9] イベント名:[EV0009] 位置:[X:36, Y:16]
+      Page:[3]
+        L0001:◆効果音の演奏
+
+[<!>/SONG3] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[109] イベント名:[EV0109] 位置:[X:37, Y:16]
+      Page:[2]
+        L0012:◆BGMの演奏
+
+[<!>/RIMA-bgm-read001] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[2]
+        L0021:◆BGMの演奏
+
+[<!>/RIMA-bgm-farm001] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[2]
+        L0013:◆BGMの演奏
+
+[<!>/RIMA-bgm-elepi001] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[2]
+        L0011:◆BGMの演奏
+
+[<!>/NMDorg_Anon] 使用回数: 1 回
+  マップファイル名:[Map0693.lmu]
+    イベントID:[44] イベント名:[墓地の少女] 位置:[X:29, Y:50]
+      Page:[1]
+        L0010:◆BGMの演奏
+
+[<!>/Marinesnow S] 使用回数: 2 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[109] イベント名:[EV0109] 位置:[X:37, Y:16]
+      Page:[3]
+        L0003:◆BGMの演奏
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[9]
+        L0010:◆BGMの演奏
+
+[<!>/Marinesnow M] 使用回数: 2 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[109] イベント名:[EV0109] 位置:[X:37, Y:16]
+      Page:[3]
+        L0002:◆BGMの演奏
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[9]
+        L0009:◆BGMの演奏
+
+[<!>/KPC_gamen_01] 使用回数: 1 回
+  マップファイル名:[Map0230.lmu]
+    イベントID:[8] イベント名:[EV0008] 位置:[X:48, Y:44]
+      Page:[1]
+        L0110:◆ピクチャーの表示
+
+[<!>/KPC_gamen_00] 使用回数: 1 回
+  マップファイル名:[Map0230.lmu]
+    イベントID:[8] イベント名:[EV0008] 位置:[X:48, Y:44]
+      Page:[1]
+        L0107:◆ピクチャーの表示
+
+[<!>/K-maze_sys11] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0135:◆ピクチャーの表示
+
+[<!>/K-maze_sys10] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0134:◆ピクチャーの表示
+
+[<!>/K-maze_sys09] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0132:◆ピクチャーの表示
+
+[<!>/K-maze_sys08] 使用回数: 2 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0144:◆ピクチャーの表示
+        L0148:◆ピクチャーの表示
+
+[<!>/K-maze_sys07] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0141:◆ピクチャーの表示
+
+[<!>/K-maze_sys06] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0140:◆ピクチャーの表示
+
+[<!>/K-maze_sys05] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0139:◆ピクチャーの表示
+
+[<!>/K-maze_sys04] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0138:◆ピクチャーの表示
+
+[<!>/K-maze_sys03] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0142:◆ピクチャーの表示
+
+[<!>/K-maze_sys02] 使用回数: 2 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0137:◆ピクチャーの表示
+        L0838:◆ピクチャーの表示
+
+[<!>/K-maze_sys01] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0105:◆ピクチャーの表示
+
+[<!>/K-maze_sys00] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0106:◆ピクチャーの表示
+
+[<!>/K-maze_11b] 使用回数: 2 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0125:◆ピクチャーの表示
+        L0131:◆ピクチャーの表示
+
+[<!>/K-maze_11a] 使用回数: 2 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0124:◆ピクチャーの表示
+        L0130:◆ピクチャーの表示
+
+[<!>/K-maze_10b] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0119:◆ピクチャーの表示
+
+[<!>/K-maze_10a] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0118:◆ピクチャーの表示
+
+[<!>/K-maze_09b] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0113:◆ピクチャーの表示
+
+[<!>/K-maze_09a] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0112:◆ピクチャーの表示
+
+[<!>/K-maze_08b] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0109:◆ピクチャーの表示
+
+[<!>/K-maze_08a] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0108:◆ピクチャーの表示
+
+[<!>/K-maze_07b] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0111:◆ピクチャーの表示
+
+[<!>/K-maze_07a] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0110:◆ピクチャーの表示
+
+[<!>/K-maze_06b] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0115:◆ピクチャーの表示
+
+[<!>/K-maze_06a] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0114:◆ピクチャーの表示
+
+[<!>/K-maze_05b] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0117:◆ピクチャーの表示
+
+[<!>/K-maze_05a] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0116:◆ピクチャーの表示
+
+[<!>/K-maze_04b] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0121:◆ピクチャーの表示
+
+[<!>/K-maze_04a] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0120:◆ピクチャーの表示
+
+[<!>/K-maze_03b] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0123:◆ピクチャーの表示
+
+[<!>/K-maze_03a] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0122:◆ピクチャーの表示
+
+[<!>/K-maze_02b] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0127:◆ピクチャーの表示
+
+[<!>/K-maze_02a] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0126:◆ピクチャーの表示
+
+[<!>/K-maze_01b] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0129:◆ピクチャーの表示
+
+[<!>/K-maze_01a] 使用回数: 1 回
+  マップファイル名:[Map0142.lmu]
+    イベントID:[16] イベント名:[EV0016] 位置:[X:1, Y:3]
+      Page:[1]
+        L0128:◆ピクチャーの表示
+
+[<!>/F] 使用回数: 1 回
+  マップファイル名:[Map0482.lmu]
+    イベントID:[26] イベント名:[EV0026] 位置:[X:14, Y:77]
+      Page:[2]
+        L0022:◆BGMの演奏
+
+[<!>/Earth tremor] 使用回数: 2 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[109] イベント名:[EV0109] 位置:[X:37, Y:16]
+      Page:[3]
+        L0004:◆BGMの演奏
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[9]
+        L0008:◆BGMの演奏
+
+[<!>/E] 使用回数: 1 回
+  マップファイル名:[Map0482.lmu]
+    イベントID:[26] イベント名:[EV0026] 位置:[X:14, Y:77]
+      Page:[2]
+        L0019:◆BGMの演奏
+
+[<!>/Drone] 使用回数: 3 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[109] イベント名:[EV0109] 位置:[X:37, Y:16]
+      Page:[3]
+        L0005:◆BGMの演奏
+    イベントID:[24] イベント名:[EV0024] 位置:[X:40, Y:24]
+      Page:[1]
+        L0013:◆BGMの演奏
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[9]
+        L0007:◆BGMの演奏
+
+[<!>/Ainokatachi2_Anon] 使用回数: 1 回
+  マップファイル名:[Map0715.lmu]
+    イベントID:[2] イベント名:[EV0002 BGM] 位置:[X:1, Y:0]
+      Page:[1]
+        L0529:◆BGMの演奏
+
+[<!>/8_] 使用回数: 1 回
+  マップファイル名:[Map0488.lmu]
+    イベントID:[51] イベント名:[EV0051] 位置:[X:6, Y:5]
+      Page:[1]
+        L0001:◆BGMの演奏
+
+[<!>/710_ma] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[103] イベント名:[EV0103] 位置:[X:33, Y:26]
+      Page:[1]
+        L0017:◆遠景の変更
+
+[<!>/710_Charset_ED01] 使用回数: 54 回
+  マップファイル名:[Map0639.lmu]
+    イベントID:[201] イベント名:[EV0201] 位置:[X:8, Y:16]
+      Page:[1][グラフィック]
+    イベントID:[202] イベント名:[EV0202] 位置:[X:9, Y:16]
+      Page:[1][グラフィック]
+    イベントID:[203] イベント名:[EV0203] 位置:[X:10, Y:16]
+      Page:[1][グラフィック]
+    イベントID:[204] イベント名:[EV0204] 位置:[X:11, Y:16]
+      Page:[1][グラフィック]
+    イベントID:[205] イベント名:[EV0205] 位置:[X:12, Y:16]
+      Page:[1][グラフィック]
+    イベントID:[206] イベント名:[EV0206] 位置:[X:13, Y:16]
+      Page:[1][グラフィック]
+    イベントID:[207] イベント名:[EV0207] 位置:[X:14, Y:16]
+      Page:[1][グラフィック]
+    イベントID:[208] イベント名:[EV0208] 位置:[X:15, Y:16]
+      Page:[1][グラフィック]
+    イベントID:[209] イベント名:[EV0209] 位置:[X:10, Y:21]
+      Page:[1][グラフィック]
+    イベントID:[210] イベント名:[EV0210] 位置:[X:11, Y:21]
+      Page:[1][グラフィック]
+    イベントID:[211] イベント名:[EV0211] 位置:[X:12, Y:21]
+      Page:[1][グラフィック]
+    イベントID:[212] イベント名:[EV0212] 位置:[X:11, Y:35]
+      Page:[1][グラフィック]
+    イベントID:[213] イベント名:[EV0213] 位置:[X:11, Y:47]
+      Page:[1][グラフィック]
+    イベントID:[214] イベント名:[EV0214] 位置:[X:12, Y:47]
+      Page:[1][グラフィック]
+  マップファイル名:[Map0640.lmu]
+    イベントID:[236] イベント名:[EV0236] 位置:[X:17, Y:56]
+      Page:[1][グラフィック]
+    イベントID:[238] イベント名:[EV0238] 位置:[X:15, Y:73]
+      Page:[1][グラフィック]
+    イベントID:[239] イベント名:[EV0239] 位置:[X:16, Y:73]
+      Page:[1][グラフィック]
+    イベントID:[243] イベント名:[EV0243] 位置:[X:7, Y:77]
+      Page:[1][グラフィック]
+    イベントID:[244] イベント名:[EV0244] 位置:[X:14, Y:10]
+      Page:[1][グラフィック]
+    イベントID:[247] イベント名:[EV0247] 位置:[X:15, Y:10]
+      Page:[1][グラフィック]
+    イベントID:[282] イベント名:[EV0282] 位置:[X:8, Y:77]
+      Page:[1][グラフィック]
+    イベントID:[284] イベント名:[EV0284] 位置:[X:9, Y:77]
+      Page:[1][グラフィック]
+    イベントID:[289] イベント名:[EV0289] 位置:[X:15, Y:82]
+      Page:[1][グラフィック]
+    イベントID:[290] イベント名:[EV0290] 位置:[X:16, Y:82]
+      Page:[1][グラフィック]
+    イベントID:[291] イベント名:[EV0291] 位置:[X:17, Y:82]
+      Page:[1][グラフィック]
+    イベントID:[321] イベント名:[EV0321] 位置:[X:10, Y:16]
+      Page:[1][グラフィック]
+    イベントID:[325] イベント名:[EV0325] 位置:[X:5, Y:98]
+      Page:[1][グラフィック]
+    イベントID:[327] イベント名:[EV0327] 位置:[X:6, Y:98]
+      Page:[1][グラフィック]
+    イベントID:[332] イベント名:[EV0332] 位置:[X:7, Y:98]
+      Page:[1][グラフィック]
+    イベントID:[360] イベント名:[EV0360] 位置:[X:8, Y:98]
+      Page:[1][グラフィック]
+    イベントID:[361] イベント名:[EV0361] 位置:[X:14, Y:114]
+      Page:[1][グラフィック]
+    イベントID:[362] イベント名:[EV0362] 位置:[X:15, Y:114]
+      Page:[1][グラフィック]
+    イベントID:[363] イベント名:[EV0363] 位置:[X:16, Y:114]
+      Page:[1][グラフィック]
+    イベントID:[364] イベント名:[EV0364] 位置:[X:17, Y:114]
+      Page:[1][グラフィック]
+    イベントID:[365] イベント名:[EV0365] 位置:[X:18, Y:114]
+      Page:[1][グラフィック]
+    イベントID:[366] イベント名:[EV0366] 位置:[X:5, Y:123]
+      Page:[1][グラフィック]
+    イベントID:[367] イベント名:[EV0367] 位置:[X:6, Y:123]
+      Page:[1][グラフィック]
+    イベントID:[368] イベント名:[EV0368] 位置:[X:7, Y:123]
+      Page:[1][グラフィック]
+    イベントID:[381] イベント名:[EV0381] 位置:[X:16, Y:135]
+      Page:[1][グラフィック]
+    イベントID:[578] イベント名:[EV0578] 位置:[X:11, Y:16]
+      Page:[1][グラフィック]
+    イベントID:[579] イベント名:[EV0579] 位置:[X:12, Y:16]
+      Page:[1][グラフィック]
+    イベントID:[627] イベント名:[EV0627] 位置:[X:8, Y:10]
+      Page:[1][グラフィック]
+    イベントID:[628] イベント名:[EV0628] 位置:[X:9, Y:10]
+      Page:[1][グラフィック]
+    イベントID:[629] イベント名:[EV0629] 位置:[X:10, Y:10]
+      Page:[1][グラフィック]
+    イベントID:[630] イベント名:[EV0630] 位置:[X:11, Y:10]
+      Page:[1][グラフィック]
+    イベントID:[631] イベント名:[EV0631] 位置:[X:12, Y:10]
+      Page:[1][グラフィック]
+    イベントID:[632] イベント名:[EV0632] 位置:[X:13, Y:10]
+      Page:[1][グラフィック]
+    イベントID:[633] イベント名:[EV0633] 位置:[X:6, Y:21]
+      Page:[1][グラフィック]
+    イベントID:[634] イベント名:[EV0634] 位置:[X:16, Y:28]
+      Page:[1][グラフィック]
+    イベントID:[635] イベント名:[EV0635] 位置:[X:17, Y:28]
+      Page:[1][グラフィック]
+    イベントID:[636] イベント名:[EV0636] 位置:[X:6, Y:43]
+      Page:[1][グラフィック]
+    イベントID:[638] イベント名:[EV0638] 位置:[X:16, Y:56]
+      Page:[1][グラフィック]
+    イベントID:[639] イベント名:[EV0639] 位置:[X:6, Y:66]
+      Page:[1][グラフィック]
+    イベントID:[640] イベント名:[EV0640] 位置:[X:7, Y:66]
+      Page:[1][グラフィック]
+
+[<!>/5] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[2]
+        L0017:◆BGMの演奏
+
+[<!>/4] 使用回数: 1 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[2]
+        L0001:◆BGMの演奏
+
+[<!>/2i9_pano13] 使用回数: 1 回
+  マップファイル名:[Map0851.lmu]
+    イベントID:[49] イベント名:[EV0049] 位置:[X:21, Y:58]
+      Page:[1]
+        L0007:◆遠景の変更
+
+[<!>/2i9_pano12kaihen] 使用回数: 1 回
+  マップファイル名:[Map0808.lmu]
+    イベントID:[180] イベント名:[EV0180] 位置:[X:77, Y:3]
+      Page:[1]
+        L0001:◆遠景の変更
+
+[<!>/2_7] 使用回数: 2 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[1]
+        L0001:◆BGMの演奏
+  マップファイル名:[Map0693.lmu]
+    イベントID:[49] イベント名:[永久の闇] 位置:[X:8, Y:62]
+      Page:[1]
+        L0010:◆BGMの演奏
+
+[<!>/2_3] 使用回数: 2 回
+  マップファイル名:[Map0070.lmu]
+    イベントID:[33] イベント名:[EV0033] 位置:[X:38, Y:16]
+      Page:[5]
+        L0001:◆BGMの演奏
+  マップファイル名:[Map0693.lmu]
+    イベントID:[54] イベント名:[記憶を失っているのに] 位置:[X:27, Y:68]
+      Page:[1]
+        L0010:◆BGMの演奏
+

@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdir -p "$HOME/Library/Application Support/%%%TEMPLATEBUNDLENAME%%%"
+"${0%/*}/easyrpg-player" --window --project-path "${0%/*}/game" --save-path "$HOME/Library/Application Support/%%%TEMPLATEBUNDLENAME%%%"

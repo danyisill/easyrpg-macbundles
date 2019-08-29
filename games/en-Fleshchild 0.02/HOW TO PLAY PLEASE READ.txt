@@ -1,0 +1,94 @@
+/////Fleshchild v0.02
+~~~~~
+pixelboom games
+blt.2016
+~~~~~
+NOTICE FOR HEADPHONE USERS:
+I tend to make my games loud enough to be heard without the aid of headphones at about 50% volume on a standard computer. If you prefer to play games with headhpones, please adjust the volume as necessary for your comfort level.
+~~~~~
+NOTICE FOR PATCHES:
+To install a patch, simply drag and drop the Map0000.lmu files into the game folder. Click YES to REPLACE the files.
+~~~~~
+
+SUMMARY:
+Fleshchild is a game about an infant, presumably extra-dimensional being named Vis growing up at the request/command of its parent, a giant red eyeball who lives in a sewer.
+
+However, in order to grow, Vis will need to “borrow” a few parts from the lovely people living upstairs. The game begins with Vis’s first emergence in the cover of night. Now that they are free to wander outside the sewer, they must hunt down all the parts they need to make themselves a proper adult. Unfortunately, people won’t like lending Vis a hand if it costs an arm and a leg to do it!
+
+GAMEPLAY:
+This game is an exploration game, similar to and inspired by Yume Nikki. There are two main segments of the game: Reality and Dreaming
+
+Reality - Vis will go to the city during the night to find parts. Gameplay involves wandering around buildings, collecting items to unlock doors and advance in the mission, reading notes and newspaper clippings to learn more about the story, and taking body parts from strangers, among a host of other things. At the end of a night, Vis will be called home to show their parent what they’ve accomplished, then go to sleep until the next night.
+
+Dreaming - Vis’s dreams begin in the city, yet quickly spiral into surreal locations like a maze of brass piping, endless stark white hospital hallways, and a cabin in the woods. The player’s objective is to collect items called mutations; mutations are cosmetic forms Vis can take, like turning into a robot, and some come with abilities. However, Vis’s dreams end abruptly without warning. Thoroughly exploring one THEMED location (the entirety of the inside of a hospital, for example) before moving to the next will reward Vis with the best experience each dream has to offer.
+
+WARNINGS:
+This game features copious amounts of visual violence, gore, blood, body horror, and a host of other things. Be wary of playing if you are sensitive to any of the above.
+
+CONTROLS:
+
+Arrow Keys - Movement
+Space - Interact/Confirm/Examine
+Shift - Run in the Real World/Use ability in Dream World
+1 - Puddle/blob form in the Real World
+ESC - Menu
+
+Save: Use the "S" shaped flowers. You'll know you found a save room when the BGM changes. You'll encounter your first save flower in the first area you explore.
+
+Body Part Deposits: Use these to remove all human body parts, or put them all back on. Some puzzles require puzzle/blob form or human form to complete. They look like a big fleshy tube. You'll encounter your first part deposit in the first area you explore.
+
+/////CREDITS:
+
+Composer:
+Nitrosparxx - http://nitrosparxx.tumblr.com
+
+Beta-Testers:
+Rose - http://moga.tumblr.com
+Redo
+Marxilliousus - http://marxilliousus.tumblr.com
+Miel - http://kaibib.tumblr.com 
+Simple - http://simpite.tumblr.com 
+Smella - http://nagitokomaedead.tumblr.com 
+Nyrator - http://nyrator.tumblr.com 
+Tom - http://tomnisekoii.tumblr.com 
+
+日本訳：
+Fleshchild v0.02
+
+【ディバグのへやがない】
+
+くんれい：
+１．アローキス：動く（うごく）
+２．ESC/X：キャンセルをする、メニュを見える
+３．Z/ENTER：むすぶ、相互に作用する（そうごにさようする）
+４．1：手腕を使う（しゅわんをつかう）
+５．SHIFT: 都市世界の中で、足があれば、走る（夢世界の中で走ることをできません）
+
+アドバイス：
+１．ぬめりな形状はとても便利です。（ぬめりなけいじょうはとてもべんりです）
+２．ねることのサイクルの外に変移を使えません。（ねることのサイクルのそとにへんいがつかえません）
+３．いつ夢に出って、夢に行くことができません。気を付けて下さい！（いつゆめにでって、ゆめにいくことができません。きをつけてください）
+
+/////HOW TO INSTALL PATCHES: DETAILED
+
+FIRST: ALWAYS MAKE A BACKUP OF THE GAME (Copy Fleshchild's folder, paste in your game folder, name it Fleshchild Backup or something)
+
+1. Download the correct patch (the correct patch link will always be updated on FC's blog page: http://bleetdev.tumblr.com/fleshchild )
+2. Move Patch to Fleshchild's MAIN folder
+3. Extract ALL map.lmu files to the MAIN folder
+4. Make sure to choose either MOVE & REPLACE or COPY & REPLACE for all choices (Windows)
+
+If patches are uploaded, it is VERY IMPORTANT that you install them!
+
+//パッチをインストールする方
+
+一番：ゲームのバックアップをいつも作って下さい！【Fleshchildのフォルダーをコピーして、自分のゲーム・フォルダーに置いて、そのコピーは「Fleshchildバックアップ」とか氏名を打って】
+
+1．正しいパッチをダウンロードして【Fleshchildのブログのページに正しいパッチリンクはいつもアップデートする: http://bleetdev.tumblr.com/fleshchild 】
+2．パッチの.rarはFleshchildの主フォルダーに置いて
+3．主フォルダーにmap.lmuのファイルを全部エキストラクトして
+4．【Windows】ウインドーで「ファイルを全部かえる」を選んで
+
+パッチはアップロードしたら、そのパッチをインストールすることはとても大切です！
+
+ブログページのパッチリンクだけインストールして下さい！

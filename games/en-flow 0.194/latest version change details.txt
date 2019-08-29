@@ -1,0 +1,22 @@
+
+* On migrating your save data
+Move Save*.lsd from inside the 'data' folder.
+
+
+It's been several years, but I haven't added much new content. Forgive me.
+I will update again if I feel like it.
+
+
+2019/05/13
+- One new world was added*
+  It can be found down the stairs in the snow world.
+
+- Changed the position of an effect
+  The black hoodie effect's position was changed.
+
+
+2019/05/27
+Fixed bugs in the new maps, and added events.
+
+
+* Translator's note: lol originally said only one 'map' was added. Several new maps were actually added to the game, but I'm guessing lol was referring to only adding one new 'world' of maps, so I changed 'map' to 'world' here for accuracy.

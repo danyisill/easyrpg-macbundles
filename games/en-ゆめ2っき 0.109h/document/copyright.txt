@@ -1,0 +1,373 @@
+★著作権に関して
+
+このゲームに使用されている素材の著作権は各素材の製作者にあります。
+無断で2次使用、2次配布しちゃだめぽ。
+
+------------------------------------------------------------------
+
+★About copyright
+
+Copyright material is used for this game is the creator of each material.
+Unauthorized use and distribution prohibited.
+
+------------------------------------------------------------------
+
+スタッフロールに名前出したいからさ…自己申告、他人申告お願い！！
+
+素材提供者でトリップ◆が付いてないレス番号だけの人は、製作の都合上一括して名無しさんになってしまいますので、
+「以前、私はこんな素材をあげました」「使われているのに名前が無いです」ということで名乗り出てください。
+※素材未実装でもお願いします。
+
+【理由】
+・スタッフロールに　「グラフィック　3スレ>>33、3スレ>>456、3スレ>>488…」　みたいに数字だけが延々と並んでもちょっと…
+・1スレからログを全部見直して該当レスを抽出し、素材提供者を特定する作業が非常に困難。
+
+
+【名前が不明な素材提供者さん】
+
+・Graphics
+1スレ >>43 ID:BMYMgYSw氏
+1スレ >>78 ID:tJFrwnZj氏f
+1スレ >>311 ID:U2tCR5yU氏
+1スレ >>320 ID:Fu6ceokn氏
+1スレ >>348 ID:XCvGK2ti氏
+1スレ >>915 ID:YWQFZ7xj氏
+1スレ >>923 ID:xoSlq2x0氏
+1スレ >>909 ID:LSHYDNXR氏
+5スレ >>15 ID:bJs9UK/s氏(ツインテールの人)
+5スレ >>40 ID:dJMCO8vY氏(主人公と敵キャラ２種類まで作っていたのですが･･･、茄子科植物擬人化の人）
+6スレ >>518 ID:b0wpeNVe氏（青の通路のMAPCHIPの人）
+6スレ >>561 ID:mJIEZ2/e氏（まだ荒いけどＭＯＴＨＥＲのイベントっぽいのの一枚作ってみたの人、曲もあり？）
+6スレ >>567 ID:l6nwgqTj(横スクロール画面を想定した背景を追加しました。巨人シリーズみたいになってますがの人）
+他、単発で素材を上げてくれた名無し様
+    
+・Music
+1スレ >>152　ID:8kealLN/氏
+1スレ >>532　ID:iFNhs+ac氏
+1スレ >>542　ID:jmvVreBu氏
+1スレ >>780 FnsbTlTU氏
+1スレ >>784 ID:qtZtC67h氏
+1スレ >>803 ID:DGMl+Adr氏
+1スレ >>822 ID:9rLX8246氏
+1スレ >>903 ID:hdxkeM0m氏
+1スレ >>923 ID:xoSlq2x0氏
+1スレ >>937 ID:D9MW/qP+氏
+2スレ >>5 ID:oCmkuq+N氏
+2スレ >>272 ID:TF+2+LgJ氏
+6スレ >>328　ID:Y1lWo09N氏
+他、単発で素材を上げてくれた名無し様
+
+・Library Texts
+1スレ>>826 ID:M27KA36/氏
+1スレ>>893 ID:2L3knzlI氏
+他、単発で素材を上げてくれた名無し様
+
+
+
+【【以下名前が判明している制作者さん】】
+ツクール系は敬称略
+
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+Staff Credits	（最終更新日：16/09/25）
+
+
+【Producer】
+>>1（まとめwiki担当兼、素材提供）
+
+
+【Main System】
+20(twen20ty)
+30
+hal(春針)
+INT
+kuraud
+◆9G87ZOr0ks
+ゆきひつじ
+12部屋目の310
+
+
+【Map】
+A
+hal(春針)
+20(twen20ty)
+710(夏月)
+INT
+418
+ぴぬ
+dedp(パピコ)
+kuraud
+sabamiso(トレンディ鯖味噌)
+oudn
+百八十五号(えれす＠珍獣)
+Bokun(くまぽんざぶろう)
+ぜんまいヶ原の住人
+Jekyle
+n3
+◆9G87ZOr0ks
+◆tKp9vEGEfhCD
+Zoo
+ゆきひつじ
+◆wXeoWvpbbM
+うをのぞき
+◆G/OTz1VptjfD
+Tonden
+wataru
+Ca
+イェリス
+スターマン(GALAXY)
+モセニテ
+みけ
+spelude(幻想)
+natl
+アノン
+985
+黒九
+juda
+kappa
+shigurin
+2i9
+light
+VANEGI
+ルリ
+qxy
+
+【Mini Game】
+945
+YOM
+↑V↑(ｳｪｳﾞｨｱｯﾌﾟ)
+kuraud
+ぜんまいヶ原の住人
+Jekyle
+◆yXu.N9nxhI(36人目)
+◆G/OTz1VptjfD
+
+
+【Graphics Artists and Map/Charactor Design Support】
+getabaki(762)様
+932様
+ASDF様
+uxiru様
+762様
+EltWelt様
+まっくろ様
+ryu-1-sou様
+峰(mine)様
+さおみー様
+gyomusuper様
+workev様
+こな様
+ゆゆ様
+◆LK1hIc.d6k(515)様
+NN様
+【関電64.2%】【24.9m】様
+有珠川様
+トカキ様
+ゆみかん様
+とーん様
+アノン様
+workey様
+はる様
+noildoof様
+
+
+【Music/Sound Support】
+99様
+ASDF様
+575様
+626様
+932様
+外外様
+qs0UrDFJ様
+den様
+RIMA様
+音師竹内様
+かめりあ様
+EltWelt様
+LSD様
+ラギー様
+向詠にいち(654321)様
+ふ～た様
+ロント様
+SAKAI NO OWARI様
+砂丘の旅人様
+zetsu様
+REO様
+トニー・トウゴウ様
+L様
+MAYA AKAI様
+Yuri様
+P.Lin*様
+
+
+【Library Texts】
+>>1
+20(twen20ty)
+145
+hal(春針)
+826
+893
+sabamiso(トレンディ鯖味噌)
+kuraud
+Gaku
+Glaple
+◆tKp9vEGEfhCD
+710
+イェリス
+spelude(幻想)
+natl
+kappa
+light
+2i9
+
+
+【Debug Support】
+名無しさん
+
+
+【pixiv】
+ぁもゆ様
+lu様
+稲塚 春様
+yuanshang様
+こな様
+
+
+【pixiv Wallpaper】
+yuanshang様		ヤミキノ様			白くま様
+山上下様		凪果さな様			Eltwelt様
+lol様			十人十ゐろ様			YUKI様
+エダマメ.様		稲荷様				幸付き様
+黒天様			きな子もち様			蒼空飴様
+マリナ様		懺悔様				FOUNCID様
+こ（び）様		CHiHiR0様			けるお様
+陸様			ハリネズミ様			ツピー様
+みあ様			戀雅　鵺様			うつがめ様
+鳩豆様			上埜月様			ノア様
+富ゑ様			月狗使様			kinago様
+イドラ様		Lupa様				よじお様
+蒼色様			水利様				ころんば様
+aki様			アルツ様			路地裏様
+Cat_Bible様		壱峪ひろ様			ナゴー様
+蒼椈森Haya様		ウィル様			若様
+mero様			ろーずまゆたん様		あまた　ゆきえ様
+流れ。様		にゃー様			きなこもっちもち様
+彼岸花様		aruva様				あしなべ様
+神埼由羅様		もけ子様			福野04様
+志樹様			tanita様			まりしゃん様
+あきつ様		東雲くらげ様			もちもち様
+getabaki様		らう様				まこっち様
+柑橘箱様		闇月夜様			190様
+蒼様			アベル様			れもん氏様
+さおみー様		凡様				Level.21様
+こな様			dedp様				ぁもゆ様
+oudn様			20様				へっどふぉん様
+178様			kmn様				ゆゆ様
+カイズ様		Torii様				わたる様
+ラギー様		ティクルポポ様			みけ様
+カワシ様		こと様				とーん様
+KYOU様			胃の結様			オレンジ１００％様
+竹ノ花様		NN様				こげ兎様
+えいり様		ネコノハヤシロ様		おぽ子様
+miharu様		ガン★ガゼ様　　　　　　　　　　日陰様
+モカ様　　　　　　　　　さんびゃくななじゅう様　　　　　にんふぇあ様
+クスゥ様　　　　　　　　arkham様　　　　　　　　　　　　メロンまっちゃ様
+アマクサ様　　　　　　　ninoruko様　　　　　　　　　　　mizkura様
+chugo様　　　　　　　　 凹にゃん様　　　　　　　　　　　なそあん様
+TaSK様　　　　　　　　  かわわらわ様　　　　　　　　　　noildoof様
+慶吉郎様　　　　　　　　樺山かなり様　　　　　　　　　　カワシ様
+noname様　　　　　　　　クロワ様　　　　　　　　　　　　mario様
+お菊様　　　　　　　　　Hans様　　　　　　　　　　　　　ec様
+BSL様　　　　　　　　　 quoiDraught様　　　　　　　　　 真白カコイ様
+
+
+【pixiv Puzzle】
+ヤミキノ様		レンツァイ様			白くま様
+彼方様			睡魔様				ゆうし様
+緋翠様			鳩豆様				矢車小怪様
+みあ様			まっくろ様			きな子もち様
+幸付き様		青蓮華様			壱峪ひろ様
+あきつ様		216チロ様			toto様
+メガネ山様		さおみー様			dario様
+ツピー様		まこっち様			巴様
+NaTiru様		婿様				ﾐﾗ様
+ころんば様		chico様				RPG-7様
+蒼様			かしもち(春蝶)様		とーん様
+miharu様　　　　　　　　NN様　　　　　　　　　　　　　　BSL様
+まっぷつき様　　　　　　クロワ様　　　　　　　　　　　　スイ様
+
+
+【Material/Uploader Master】
+モノクログリーン様
+
+
+【Making Support】
+kt
+724様
+おされ丸様
+
+
+【Material Sites】
+ゆめにっきっぽいゲームを作るスレうｐロダ
+びたちー素材館様                                      (URL：http://www.vita-chi.net/sozai1.htm) ※何かしらの表記必須
+ザ・マッチメイカァズ様                                (URL：http://osabisi.sakura.ne.jp/m2/index.html)
+ULTIMATEゲーム事業部 フリー効果音様                   ※サイト消失
+機械庭工房様                                          ※サイト消失
+Free音素材「音楽室」様                                ※サイト消失
+効果音源様                                            (URL：http://koukaongen.com/、管理者：株式会社こだまプロダクション)
+白螺子屋様                                            (URL：http://hi79.web.fc2.com/) ※テキストなどにサイト名とアドレス表記必須
+First Seed Material様                                 ※サイト消失
+Looseleaf様                                           ※サイト消失
+ヒラノ様
+On-Jin ～音人～様                                     (URL：http://on-jin.com/) ※サイト名とアドレス表記必須
+音の杜様                                              (URL：http://www.otonomori.info/index.html)
+akiroom様                                             (URL：http://akiroom.com/tkool/index.html、管理者：秋山 博紀(AKI)様) ※添付書類に管理者表記必須
+acoustica様
+つーの素材クラブ様                                    (URL：http://tuuu.s18.xrea.com/sozai2.htm)
+HOP　STEP　αデジタル増刊号２様                       (URL：http://2nd.geocities.jp/hopstep_a/) ※アドレス表記必須
+SWEET POISON CANDY様                                  (URL：http://www.geocities.jp/sweetpoisoncandy/menu.html) ※サイト名表記必須
+音の葉っぱ～効果音・ジングル・BGMのフリー音素材集～様 (URL：http://otonohappa.web.fc2.com/) ※サイト名とアドレス表記必須
+フリー音楽素材 Senses Circuit様                       (URL：http://www.senses-circuit.com/) ※サイト名とアドレス表記必須
+Illustration様
+フリー素材屋Hoshino様                                 (URL：http://www.s-hoshino.com/) ※サイト名もしくはアドレス表記必須
+Frash Cafe様
+効果音.net様                                          ※サイト消失
+LoopForest様                                          (URL：http://loopforest.com/) ※サイト名とアドレス表記を強く希望
+Gally's Graphics Gate様                               (URL：http://gallyart.20m.com/)
+粋屋様                                                (URL：http://koukaongen.com/)
+花と少年様						(URL：http://cat.s21.xrea.com/index.html)
+ＣＧ素材集（テクスチャー素材集）様                    (URL：http://janroom.jeez.jp/sozai/)
+100 Free High Quality Wooden Texture Packs様          (URL：http://creativedesignmagazine.com/100-free-high-quality-wooden-texture-packs.html)
+YASU pochi Guitar Diary様                             (URL：http://www.asahi-net.or.jp/~yd9y-wtnb/)
+ひょうぶろぐ様                                        (URL：http://hyouburogu.jugem.jp/、管理者：兵部大輔(司馬晋)様)
+Gatoblanco様
+効果音ラボ様                                          (URL：http://soundeffect-lab.info/)
+ありそでなさそな効果音様                            　(URL：http://koukaonwaikaga.shime-saba.com/)
+Music is VFR様                                      　(URL：http://musicisvfr.com/) ※サイト名とアドレス表記必須
+ポケットサウンド様                                    (URL：http://pocket-se.info/) ※アドレス表記必須
+くらげ工匠様                                          (URL：http://www.kurage-kosho.info/)
+WEB WAVE LIB様                                        (URL：http://wwｌ.s-t-t.com/) ※何かしらの表記必須
+無料写真素材　写真AC様                                (URL：http://www.photo-ac.com/)
+魔王魂様　　　　　　　　　　　　　　　　　　　　　　  (URL：https://maoudamashii.jokersounds.com/)
+
+【Refference】
+星のるつぼ　－星の名前のデータベース－様 (URL：http://mirahouse.jp/name/index.html)
+
+
+【Tool】
+RPGツクール2000
+ツクールでつくーる
+
+
+【Website】
+ゆめにっきっぽいゲームを作るスレまとめ Wiki (URL：http://wikiwiki.jp/yumenikki-g3/)
+
+
+【Making】
+ゆめにっきっぽいゲームを作るスレ住人
+
+
+
+
+
+THANKS FOR kikiyama

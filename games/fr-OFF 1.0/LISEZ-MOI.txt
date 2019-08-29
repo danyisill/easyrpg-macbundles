@@ -1,0 +1,159 @@
+====================================================================================================
+OFF V.1.6.1
+====================================================================================================
+
+Merci d'avoir téléchargé OFF. Tous vos commentaires, remarques, réperages de bugs et critiques sont les bienvenues, vous pouvez me les adresser directement sans une seconde d'hésitation (rubrique "contact" en fin de fichier).
+
+== INSTALLATION ==
+Pour lancer le jeu, double cliquez sur l'icone "RPG_RT.EXE" dans le dossier principal
+Une fois le jeu lancé appuyez sur F4 pour jouer en mode fenêtre
+Utilisez F5 pour faire varier la taille de la fenêtre
+
+Si un message d'erreur apparait, il va certainement falloir télécharger et installer un programme du nom de RPG Maker 2003, il n'est pas très lourd et permet de créer des RPG facilement! Il est assez facile à trouver en français sur internet, mais il faut aussi télécharger un autre programme qui s'appelle les RTP, sans lequel RPG Maker ne peut fonctionner. Faites bien attention d'installer la version 2003. Ensuite réessayez l'icone RPG_RT.EXE
+
+Si ça ne marche toujours pas, je ne sais pas quoi faire pour vous. Allez demander de l'aide à des gens plus intelligents que moi (il y en a beaucoup) ou essayez d'utiliser un autre ordinateur... ou faites un tour dans la rubrique "problèmes et solutions", quelque part plus loin dans ce fichier. Sans doute.
+
+== CONTROLES ==
+Utilisez les flèches directionelles pour déplacer le personnage principal (le batteur)
+Utilisez entrée ou espace pour interagir avec des éléments du décor ou d'autres personnages
+Utilisez Esc ou 0 (zéro) pour ouvrir le menu principal et pour revenir en arrière dans les menus.
+Utilisez la touche F4 pour passer du mode plein écran au mode fenêtre, et F5 en mode fenêtre pour changer la taille de cette dernière.
+
+
+====================================================================================================
+FAQ
+====================================================================================================
+
+Q: Je ne comprend pas le système de combat...
+R: Un tutorial est proposé au début du jeu. Si le système vous parait néanmoins incompréhensible... Heu... Allez donc demander un coup de main sur le forum de Zanarkand (http://zanaforum.free.fr) ou essayez un peu tout jusqu'à trouver une solution.
+
+Q: Peut-on accéder à Alma ?
+R: Fermez ce fichier et jouez, pour voir.
+
+Q: Je ne comprends rien au scénario.
+R: C'est plus ou moins normal. Ca s'éclaircira peut-être plus tard dans le jeu. Il n'y a néanmoins aucune garantie à ce sujet.
+
+Q: Y'a-t-il des codes secrets pour débloquer des trucs ?
+R: Il y en a un, le voici: Bas - Gauche - Haut - Droite - Z - J - B - D - B - Start.
+
+Q: Y'aura-t-il une suite à Off ?
+R: On y réfléchit.
+
+Q: Comment fait-on pour débloquer la fin secrète ?
+R: Sifflote sifflote...
+
+Q: Que signifient FAQ, Q et R ?
+R: FAQ signifie Foire Aux Questions, Q signifie Question et R Réponse.
+
+Q: Que signifie DARPA ?
+R: Departement of Armement Research and heu... Bah, un truc comme ça je pense. Mais cette question n'a aucun rapport avec Off de toutes façons...
+
+Q: Je peux utiliser vos ressources graphiques ?
+R: (je pense pas que des gens en auraient envie mais...) Servez-vous. (Si vous faites ça, pensez peut-être à mettre mon nom dans les crédits de votre jeu... S'il vous plait.) Par contre évitez de faire des jeux qui se dérouleraient dans le même monde que Off, nous avons un background que nous comptons exploiter jusqu'au trognon.
+
+Q: Je peux utiliser vos musiques dans mon jeu ?
+R: Là c'est plus délicat, contactez Alias Conrad Coldwood avant, s'il vous plait. (aliasconradcoldwood@gmail.com)
+
+Q: A propos des musiques, j'ai remarqué que certaines boucles n'étaient pas parfaites...
+R: Bla bla blaaaaa! Elles sont parfaites! C'est RPG Maker qui ne nous aime pas.
+
+Q: Je suis bloqué dans Off...
+R: J'ai écrit une soluce complète, elle se trouve ici: http://gaarabis.free.fr/_minisites/off/03Downloads/Soluce.rar
+
+Q: Le français est une langue horrible vous ne trouvez pas ?
+R: Des versions en anglais et espagnole existent. Mais permettez-moi quand même de vous préciser que vous n'avez aucun goût. Plus d'infos sur la version anglaise ici: https://starmen.net/forum/Fan/Games/OFF-by-Mortis-Ghost -- pour la version espagnole, c'est là: http://zeirt.tumblr.com/post/49271624742
+
+Q: J'ai une autre question, mais j'ai peur de prendre contact avec vous parce que vous avez l'air bizarre.
+R: J'ai laissé mon adresse mail en bas, contactez-moi sans hésiter, je me ferais un plaisir de répondre à vos questions.
+
+
+====================================================================================================
+VERSIONS
+====================================================================================================
+
+== Différences avec la version 1.0 ==
+* Correction d'un bug critique concernant les boss du jeu
+* Correction d'un bug de passage dans la partie 4 de la zone 3
+* En théorie Off n'a plus besoin de RPG Maker 2003 pour fonctionner
+
+== Différences avec la version 1.1 ==
+* Correction de deux dialogues incohérents.
+* Correction d'un bug de passage dans la zone 1 blanche
+* Correction d'un bug mineur dans la partie 1 de la zone 3
+* Correction d'un bug mineur dans la zone 3
+* Correction d'un bug de passage dans la partie 1 de la zone 3
+* Correction d'un bug de passage dans la zone 3 blanche
+* Correction d'un bug de passage dans la chambre
+* Correction d'une faute d'orthographe lors des combats.
+* Correction d'un bug mineur concernant les sauvegardes
+
+== Différences avec la version 1.2 ==
+* Correction d'un bug d'affichage dans la zone 2
+* Ajout dans le lisez-moi des liens vers les polices et la soluce
+* Ajout d'une très brêve introduction concernant la musique.
+* Correction d'un bug mineur avec le générique de fin
+* Changement de l'écran
+* Correction d'un bug concernant la musique des combats dans la zone 2
+* Correction d'un bug d'affichage minable dans la chambre.
+
+== Différences avec la version 1.3 ==
+* Correction d'un bug lors du tutoriel de la zone 0
+* Correction d'un bug de passage dans la zone 1
+* Correction d'un bug important dans la zone 3
+
+== Différence avec la version 1.4 ==
+* Correction d'un bug important dans la zone 2
+
+== Différence avec la version 1.5 ==
+* Correction définitive des polices illisibles du jeu (j'espère)
+
+
+====================================================================================================
+PROBLEMES ET SOLUTIONS
+====================================================================================================
+
+== LE JEU NE DEMARRE PAS ==
+OFF a été conçu sous RPGMaker2003 et ne tourne normalement que sous Windows. Si vous n’utilisez pas Windows, il faudra lancer le jeu à partir d’un émulateur (Wine par exemple, existe pour Linux et Mac OS).
+Dans de rares cas, il est nécessaire d’installer RPGMaker 2003 ainsi que les RTP.
+
+== LE JEU NE SAUVEGARDE PAS LA PARTIE ==
+Si vous avez téléchargé une version de OFF compressée dans un fichier ZIP ou RAR, décompressez l’intégralité du fichier dans un dossier unique (clic droit sur l’archive puis "Décompresser tout") puis supprimez l’archive ZIP ou RAR et lancez le jeu normalement en double cliquant sur RPG_RT.EXE.
+Sous Windows 7, il est possible que le jeu n’ait pas les droits nécessaires pour enregistrer des fichiers sur le disque dur de votre ordinateur. Tout d’abord, assurez-vous le jeu n’a pas été décompressé dans "Program Files" ou "Program Files x86". Si ça n’a pas résolu le problème, essayez de lancer l’application avec les droits administrateur (clic droit sur le fichier RPG_RT.EXE puis "lancer en tant qu’administrateur").
+
+== L'ECRAN SCINTILLE AU DEMARRAGE ==
+Par défaut, OFF se lance ne mode plein écran en 320x240. Si votre carte graphique ne permet pas l’affichage plein écran dans cette résolution, passez en mode fenêtré (en appuyant sur F4 ou en appuyant simultanément sur Alt+Enter). Si l’image est trop petite, vous pouvez doubler la taille des pixels en appuyant sur F5.
+
+== LES CONTROLES CLAVIER NE REPONDENT PAS ==
+Il arrive parfois que certains périphériques branchés sur la machine entrent en conflit avec le jeu, débranchez les contrôleurs de jeu (type pad, joystick, etc.) et relancez le jeu.
+
+== LES SONS FONCTIONNENT, MAIS PAS LES MUSIQUES ==
+Téléchargez LAME MP3 Encoder et décompressez les fichiers MP3 contenus dans le dossier "Music" vers du WAV (attention : décompresser les fichiers MP3 nécessite plus d’espace disque).
+
+== LE TEXTE EST ILLISIBLE ==
+Copiez le fichier "ProFont.fon" (il se trouve dans le dossier d’installation de OFF) dans le dossier font de Windows ("C:\Windows\fonts"  par défaut). Sur certaines versions de Windows, il est possible d’installer la police de caractère en faisant un clic droit dessus puis "installer la police".
+
+
+====================================================================================================
+CREDITS
+====================================================================================================
+
+== EQUIPE ==
+Jeu créé par Mortis Ghost
+Musiques et co-réalisation par Alias Conrad Coldwood
+Tests principaux par Alias Conrad Coldwood et ze.
+Beta-tests par Kno, Eolen et Minusc
+Design de Sucre par Lithiriem
+Design de Ballman et Boxxer par Azertip
+Réalisé avec RPG Maker 2003 traduit par Bodom Child & RaBBi
+Un jeu UNPRODUCTIVE FUN TIME
+(en partenariat avec la banque mondiale et son orchestre et Forgotten Dreams)
+
+== CONTACTS ==
+Mortis Ghost: mortisnova@hotmail.com
+Alias Conrad Coldwood: aliasconradcoldwood@gmail.com
+
+http://gaarabis.free.fr (unproductive fun time)
+http://www.myspace.com/banquemondiale (la banque mondiale et son orchestre)
+http://zanaforum.free.fr (zanarkand)
+
+(c) 2008 Mortis Ghost - Tous droits réservés

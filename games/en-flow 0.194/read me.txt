@@ -1,0 +1,81 @@
+
+.flow
+
+
+.Introduction
+
+Production tool: RPG Maker 2000
+
+This is a derivative game of Yume Nikki, made for a 'Create a Yume Nikki-like game' thread. It has absolutely no connection with Yume Nikki itself.
+
+Still, I took inspiration from things other than Yume Nikki (such as iron pipes), but there is no connection to them, either.
+
+Also, please take warning that the game contains grotesque content.
+
+I would appreciate being contacted if there are bugs. I am desperate to squash them all, and other things I'm displeased with.
+
+
+
+.How to play
+
+Before starting the game:
+
+Problems may occur if you do not extract the game from the .rar.
+
+Once the files have been extracted, copy the RPG_RT.exe from somewhere else and place it in the folder. (This is to save file size.) After that, start the game as usual.
+
+* (Translator's note: You do not need to do this nowadays. Simply run flow.exe in Japanese locale.)
+
+After starting:
+
+Confirm: Z or Enter keys
+Cancel: X or Esc keys
+Move: Arrow keys
+
+Rather than the desk, you enter the 'dream' via the desk.
+You can save in the bed.
+The wall to the right of the door is the debug room.
+
+* (Translator's note: The debug room is no longer accessible without glitching or modding.)
+
+Pinch yourself awake via the 'Special' menu sceen.
+Press the Shift key to use effects.
+This will be smoother if the Shift key's shortcut is turned off.
+
+(Control panel -> accessibility options -> fixed key settings -> turn off shortcut key use)
+
+I think it should be okay to turn off, since the fixed key function is rarely used.
+
+
+
+
+
+
+Walk around the rusted world.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monoko is soooooo cuuuuute! MonokooooaaaAAAAaaaAAAaaa!!!

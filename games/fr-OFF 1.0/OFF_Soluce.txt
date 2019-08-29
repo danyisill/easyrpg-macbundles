@@ -1,0 +1,427 @@
+La Soluce de Off (version 1.0 du 23 mai 2008)
+par Mortis Ghost.
+(parce que des gens m'ont demandé de le faire.)
+(... Et parce que j'avais du temps à perdre.)
+(Si vous avez des problèmes d'affichage des plans, essayez la police Lucida Console, standard, taille 10, ou essayez d'agrandir la fenêtre du notepad.)
+
+Sommaire
+I.    Zone 0
+II.   Zone 1     - Damien
+III.             - Pentel
+IV.              - Shachihata
+V.               - Alma
+VI.   Zone 2     - La Bibliothèque (1)
+VII.             - La galerie marchande
+VIII.            - Le parc
+IX.              - Le quartier résidentiel
+X.               - La Bibliothèque (2)
+XI.   Zone 3     - Area 1
+XII.             - Area 2
+XIII.            - Area 3
+XIV.             - Area 4
+XV.   La Chambre - Chapitre 5
+XVI.             - Chapitre 4
+XVII.            - Chapitre 3
+XVIII.           - Chapitre 2
+XIX.             - Chapitre 1
+XX.              - Chapitre 0
+
+--
+
+I. Zone 0
+
+Après avoir entré votre nom et vu la magnifique petite intro pleine d'effets spéciaux, dirigez vous simplement vers le nord pour découvrir le juge. Vous pouvez ouvrir le coffre à gauche avant de le rejoindre en prenant l'échelle. Il va vous proposez de faire le tuto de combat, que vous le fassiez ou pas ne change rien, alors si vous connaissez déjà les RPG vous pouvez passser. Rejoignez-le ensuite sur le toit et entrez dans la première pièce.
+
+La vous devez activez les blocs flotants (ceux avec des bords fins, les bords épais ne servent qu'à vous empêcher d'accéder à certains endroits) dans le bon ordre. Celui-ci est inscrit sur le mur. Mais comme c'est une soluce, je vais quand même vous donner l'ordre, commencez par celui en haut à gauche, puis en bas à gauche, puis en haut à droite et enfin en bas à droite.
+
+Dans la pièce suivante, il faut aussi activer les blocs dans l'ordre, mais ici il faut tenir compte de leur ordre. Voici un super shéma pour que vous ayez plus facile
+
+1 2 3 4
+5 6 7 8
+
+Et il faut donc, comme les murs l'indiquent, activer les blocs dans l'ordre suivant : 1, 2, 6, 8, 2 et 3.
+
+La pièce suivante contient la dernière énigme de la zone, encore des blocs à activer dans l'ordre. Pour trouver celui-ci vous devez sortir par la porte de devant, vous vous retrouvez à l'extérieur (profitez pour ouvrir le coffre à droite), puis passez la porte grise, au centre, où vous trouverez les numéros que vous êtes sencé chercher. Retournez donc dans la pièce des blocs et entrez le code 4, 4, 8, 2, 8, 7, 0 sur les blocs, sachant qu'ils sont disposés comme un clavier téléphonique (mais voici quand même un shéma.)
+
+1 2 3
+4 5 6
+7 8 9
+  0
+
+(Toutes les prochaines énigmes à bases de blocs, qui reviendront de temps en temps, utilisent cette formation de blocs. Mais nous vous inquiétez pas, je referais le petit shéma.)
+Ensuite sortez par le nord, et après un petit bla bla avec le juge, utilisez le bloc rouge pour vous rendre dans le néant (et éventuellement sauvegarder.) Une fois là-bas descendez sur le rond rouge juste en dessous et téléportez-vous dans la zone 1.
+
+--
+
+II. Zone 1 - Damien
+
+Vous voilà dans la zone 1, allez au nord puis entrez dans le tram pour vous le prouver. Une fois sorti, descendez du métro et allez au sud, suivez le chemin linéaire pour avoir une explication sur la fumée. Une fois terminée, et après avoir été chercher le coffre dans la maison, descendez par les escaliers, au sud. A droite vous trouverez le juge à nouveau, et pourrez récupérer votre premier compagnon de combat. Ressortez du sous-sol et parlez à nouveau avec le responsable. Il vous laissera passer à l'est. Un coffre est très bien caché, tout en haut à droite de la carte. Une fois ouvert vous pouvez descendre dans la mine.
+
+Une fois en sous-sol suivez le chemin (je me demande pourquoi je donne les directions, c'est super dirigiste en fait) et vous finirez par vous faire attaquer par huit fantômes à la fois. Pas de panique c'est pas compliqué. Ensuite vous pourrez utiliser le premier bloc jaune du jeu, qui ne permet que de sauvegarder (et c'est déjà pas mal). Le nord ne sera accessible que plus tard, alors continuez vers l'est. Voilà un plan de la pièce suivante, pour le seul plaisir de vos yeux ;
+
+          _____       _____
+Damien -> ___  |     |  __X|
+             | |_____| |
+             |  _____  |
+           __| |     | |
+          |X_  |     | |
+            _| |__   | |
+           |      |__| |___
+           |       __   ___ <- Pentel
+           |      |  | |
+           |______|  | |
+          ___________| |
+?????? -> _____________| 
+
+Les X signifient qu'il y a des coffres. Et pour accéder à la pièce que j'ai appellé "???" vous devez d'abord observer la lampe sur le mur qui n'émet aucune lumière, un interrupteur y est caché. Une fois la zone bien vidée de tout objet intéressant allez vers Pentel. Montez à l'échelle et hop vous y voilà.
+
+--
+
+III. Zone 1 - Pentel
+
+Vous allez avoir droit à un spitch sur le métal, une fois terminé, ne prenez même pas la peine de visitez la maison il n'y a pas de coffre dedans. Allez plutôt à l'est, puis au nord pour entrer dans les étables. Là vous devez tuer cinq fantômes. Les quatres premiers sont au rez-de-chaussée, le dernier se trouve au sous-sol (passage en haut à gauche). Pour l'atteindre vous devez poussez des pierres dans le bon ordre.
+
+O O
+OOO
+ O O
+ O3
+12  O
+ OO 
+
+Voilà un shéma très confus, vous devez d'abord poussez la pierre 1 une fois vers le bas, puis la 2 deux fois à droite et enfin la trois une fois vers le haut. Si c'est pas clair, essayez, si vous sortez de la pièce elles reviennent à leur place d'origine. Une fois les cinq fantômes purifiés, sortez des étables pour adimrer une magnifique cinématique en trois dimensions, à la suite de laquelle vous devrez parler au monsieur pour pouvoir partir. (N'oubliez pas de sauvegarder.)
+
+A partir de maintenant vous avez accès au nord des fermes (rien d'intéressant, à part l'arrêt de tram), à la suite des mines, mais aussi à la zone à laquelle vous n'aviez pas accès en entrant dans ces mêmes mines. Dans cette zone secrête vous trouverez des orbes, qui vous permettent d'augmenter définitivement vos caractéristiques. Mais il y fait sombre et les fantômes y sont un peu plus coriaces, alors faites attention.
+
+Continuons notre soluce, à partir de Pentel, redescendez par l'échelle, et dirigez vous à l'est (pour changer.) Vous voici dans un nouveau boyeau de la mine, et ici la lumière s'éteint, ne vous laissant qu'un léger halo autour de vous. Voici un plan des lieux.
+
+                _        _
+               | |______|X|__________
+               |  ______   __________ <- Shachihata
+     	       | |      | |
+    	      _| |_     | |
+  	     |    I|    | |
+ 	     |_____|    | |______
+             	        |  _____X|
+       		  ___   | |
+       		 | X |  | |
+      	      	 |_ _|  | |
+          ________| |___| |______
+Pentel -> _______________________|
+
+Attention, pour pouvoir accéder au couloir en haut à droite, qui va vers Shachihata, vous devez activer l'interrupteur I d'abord. Les X représentent toujours des coffres. Et prenez garde aux deux culs de sac sans X, il y a des embuscades de fantômes dedans. Une fois sorti de ce labyrinthe, vous rencontrerez Zacharie pour la première fois, profitez en pour dépenser votre argent à tout va, puis prenez la porte au nord.
+
+--
+
+IV. Zone 1 - Shachihata
+
+Après le spitch sur le plastique, prenez l'asenceur en face de vous. Vous pouvez aller sur toit (99999) pour parler au juge et admirer le payasage, mais ce n'est pas obligé. Rendez-vous d'abord au rez-de-chaussée (00001). Les employés de la pièce en bas à gauche vous donnerons deux codes, le premier (02584) vous permettra d'acceder à un étage avec deux coffres dont un est piégé. Le deuxième code (10258) vous permet d'accéder aux services postaux. Il existe un troisième code secret, mais je ne vous le donnerais pas. Tous les autres codes vous transportent à un étage au hasard, avec des gens sans grande saveur.
+
+Rendez-vous donc aux services postaux (10258) et le passage de gauche étant bloqué, passez plutôt à droite puis en haut pour rencontrer un type étrange. Une fois le combat terminé, montez les escaliers. Ici il va faloir collectioner les petits papiers "versions" sur chacun desquels est dissimulé un numéro au sein de phrases énigmatiques. A partir de celui-ci il y en a deux par étages. Vous pouvez aussi aller tout à l'ouest de cette pièce, puis redescendre pour trouver un coffre.
+
+Pas de plan cette fois c'est trop compliqué pour moi et pas trop pour vous. Une fois à l'étage 10258 3/4, un type vous demande le code. Si vous avez pas trouvé touts les papiers, le code est 681452. Vous devrez ensuite vous battre à mort, puis pourrez utiliser l'ascenseur vers le bureau du directeur. Là-bas vous trouverez un bloc sauvegarde et un petit dialogue plein de peps. Une fois terminé, redescendez au rez-de-chaussée et sortez par le sud. Puis suivez la route vers le nord-est et prenez le tram vers Alma.
+
+--
+
+V. Zone 1 - Alma
+
+Une fois hors du tram, prenez la porte au nord, et observez les trois trucs au mur. Ce sont des pages de calendrier, avec plein de machins dessus. Le gardien de la porte à côté va vous poser des questions sur ces pages. Voici les réponses :
+
+1. Le troisième vient d'Orta
+2. Roses
+3. Sixième
+4. 22
+5. Jonas
+6. 7
+
+Après une nouvelle phase de violence gratuite, vous pourrez emprunter la porte et aller au nord, qui vous conduira vers le dernier spitch, qui parle de viande, et un nouveau combat. Vous pourrez ensuite sauvegarder à nouveau et faire vos empelettes chez Zacharie. Prenez ensuite le chemin en haut à gauche, et parlez au type pour vous battre à nouveau. Ensuite observez le petit dessin sur le mur et rappellez le pédalo. Utilisez celui-ci pour partir vers le nord.
+
+A partir de la pièce suivante des chiffres sont indiqués de-ci de-là, par couples de deux. Comme vous vous en doutez ils serviront à un code pour accéder à l'endroit suivant. Vous pouvez donc les noter (ou continuer à lire la soluce, j'indiquerais le code de toutes façons.) Sachez aussi que le numéro en blanc correspond à la place dans le code du numéro noir, qui est donc le seul des deux qu'il faudra entrer.
+
+Une fois au nord, vous pouvez tuer le type qui garde l'accès au pédalo (c'est pas obligé) puis vous rendre à l'est et faire la même chose avec le suivant. Ne vous préocupez pas des blocs pour le moment, continuez à l'est. Tabassez le type suivant et prenez le pédalo vers le sud. Vous trouverez de nouveaux chiffres dans le couloir suivant. Dans la pièce sous le couloir se trouve un coffre. Une fois ouvert retournez dans le pédalo et rendez-vous à gauche (sans sortir de votre embarquation.) Vous êtes de retour sur la première map. Descendez au sud-est de celle-ci pour trouver les derniers chiffres du code. Vous pouvez maintenant retourner tout au nord pour entrer le code sur les blocs flottants. (49826590) Vous avez maintenant accès à la grande porte sur la première map (et oui, il faut de nouveau y retourner, vive les aller-retours.)
+
+(petit shéma de l'ordre des blocs flottants, je l'avais promis le revoilà)
+
+1 2 3
+4 5 6
+7 8 9
+  0
+
+Ici toutes les pièces se ressemblent et vous devez trouver les bonnes portes pour ne pas tourner en rond cinq mille ans. Le principe est simple, il faut vous approcher des portes sans les franchir, quand vous serez près de la bonne la musique va monter de volume. Mais voici l'ordre des portes à franchir, espèce de paresseux :
+Gauche, haut, droite, droite, bas, gauche, haut, haut.
+Vous êtes à l'extérieur, sauvegardez et ouvrez le coffre, au nord se trouve Dedan le premier Boss du jeu. Bonne chance à vous.
+
+Une fois qu'il est mort vous avez droit à une petite cinématique de toute beauté et vous vous retrouvez dans le néant. Allez sur le point rouge en haut à droite pour vous rendre dans la zone 2.
+
+(Vous avez maintenant accès à la zone 1 blanche, en revenant à la zone 1. Les monstres y sont très coriaces, mais de nouveaux coffres ont fait leur apparition.)
+
+--
+
+VI. Zone 2 - La Bibliothèque (1)
+
+Montez au nord, puis au nord, puis au nord à nouveau pour vous retrouver dans la bibliothèque de Bismark. Après un court dialogue parlez avec le responsable, puis empruntez les escaliers pour arriver dans une chouette pièce, dans laquelle il faut encore prendre les escaliers vers le nord. Vous voici face à la première énigme de la zone 2. Il faut récupérer des pages accrochées aux murs et les insérer dans les livres qui correspondent. Les étagères dans lesquelles se trouvent un livre sont signalées par un sol plus clair.
+
+Pour savoir quelle page va avec quel livre, il faut regarder derrière le texte, il s'y trouvent des dessins de cartes à jouer. Vous devez mettre les symboles de cartes ensemble. (2 et 3 de trèfle, 4 et 5 de carreau, 7 et 8 de coeur et as et dame de pique.) Vous vous renderez bien vite compte qu'il vous manque une page. Pour la récupérer, il faut sortir de la bibliothèque (on va le faire par le sud). Puis, une fois à l'extérieur, allez à l'ouest. Vous vous retrouvez sur la même carte, mais en fait c'est bien l'ouest de la biblothèque (les quatre directions c'est comme ça, reperez vous avec les flèches sur le mur.)
+
+Prenez donc au sud (sur la carte ouest) et vous vous retrouverez dans une rue où deux mec regardent vers le plastique liquide tandis qu'un troisième regarde vers le bas. Parlez deux fois à ce dernier et il vous vendra la page manquante pour 100 crédits. Vous pouvez maintenant retourner au deuxième étage de la bibliothèque pour mettre la page au bon endroit. Une fois les quatres pages dans leurs livres respectifs, retournez parler à l'accueuil, il vous laissera accéder à l'étage supérieur, où vous attend Japhet. Une fois ce dernier vaincu, vous pouvez récupérer votre deuxième compagnon de combat. Youpie. Une fois qu'il sera à vos côtés, sortez du batiment vers le sud et vous trouverez le juge qui vous dira d'aller au nord. Suivez ses conseils et rendez vous dans le centre commerical.
+
+--
+
+VII. Zone 2 - La Galerie Marchande
+
+Vous avez le droit de commencer par faire vos courses chez Zacharie, et de sauvegarder. Ensuite passez la porte au nord-est, puis prenez les escalier à droite dans la pièce suivante. Vous voici dans un dédale super compliqué mais pas tant que ça en fait. voilà un plan.
+
+
+				    Entrée
+
+                       ____   ____   _||_   ____   ____
+                      |    |_|    | |    |_|    |_|    |
+                      | X   _     | |     _      _     |
+                      |____| |_  _| |_  _| |____| |_  _|
+                              _||_   _||_   ____   _||_   ____
+               sortie        |    |_|    | |    |_|    |_|    |
+                             |     _     | |     _      _     |
+                             |_  _| |____| |____| |____| |_  _|
+  ____   ____   _||_          _||_                        _||_
+ |    | |    |_|    |        |    |                      |    |  
+ |    | |     _     |        |    |                      | X  |
+ |_  _| |_  _| |____|        |_  _|                      |____|
+  _||_   _||_   ____   ____   _||_
+ |    |_|    |_|    |_|    |_|    |
+ |     _      _      _      _     |
+ |____| |____| |____| |____| |____|
+
+Pour pas changer les bonnes vieilles habitudes j'ai mis des X dans les pièces avec des coffres. Passez la pièce suivante (sauvegarde) et vous voici dans un dédale encore plus compliqué. Mais voici à nouveau un plan. (vive l'ASCII)
+
+
+  ____   _||_   ____   ____   _||_   _||_           _||_
+ |    | |    | |    |_|    |_|    |_|    |         |    |
+ |  1 | |    | |     _      _      _     |         |    |
+ |_  _| |_  _| |_  _| |____| |____| |____|         |____|
+  _||_   _||_   _||_   ____   ____   ___________________
+_|    |_|    | |    | |    |_|    |_|                   |_
+_      _     | | X  | |     _      _                     _
+ |____| |_  _| |____| |_  _| |____| |___________________|
+  ____   _||_   ____   _||_   ____   ____           ____
+ |    | |    |_|    |_|    | |    |_|    |         |    |
+ | X  | |     _      _     | | 2   _     |         | X  |
+ |_  _| |____| |____| |____| |____| |_  _|         |_  _|
+  _||_   ____   ____   ____   ____   _||_           _||_
+ |    |_|    |_|    |_|    |_|    |_|    |         |    |
+ |     _      _      _      _      _     |         |    |
+ |____| |____| |_  _| |____| |____| |____|         |_  _|
+  ____   ____   _||_   ____   ____   ____           _||_
+_|    |_|    | |    |_|    |_|    |_|    |         |    |_
+_      _  3  | |     _      _      _     |         |     _
+ |____| |____| |____| |____| |____| |_  _|         |_  _|
+  ____   ____   ____   ____   ____   _||_           _||_
+_|    |_|    |_|    |_|    |_|    | |    |         |    |_
+_      _      _      _  4   _     | |    |         |     _
+ |____| |_  _| |____| |____| |_  _| |_  _|         |_  _|
+          ||                   ||     ||             ||
+
+Les pièces X contiennent toujours des coffres, la pièce 1 c'est par là où vous entrez, la 2 c'est la sortie, la 3 conduit à une petite pièce avec un autre coffre, et la 4 mène à une pièce avec rien d'intéressant dedans. Notez qu'en théorie si vous ne vous éloignez pas de la route qui va directement de l'entrée à la sortie aucun monstre ne devrait vous attaquer. Une fois hors du labyrinthe, retrouvez le juge, discutez, puis sortez de la galerie marchande sans oublier d'appeller le pédalo en sortant. La suite se trouve à l'ouest de la ville, là où vous avez acheté la page de livre manquante.
+
+--
+
+VIII. Zone 2 - Le parc
+
+Avec le pédalo rendez-vous sur l'îlot juste en face. Si le coeur vous en dit vous pouvez aussi continuer longtemps vers l'ouest, vous finirez par arriver sur une île avec un coffre. Sinon prenez l'escalier. Montez au nord jusqu'à entrer dans le parc, puis encore au nord pour entrer dans la pièce du jeu des ballons. Là vous devez obliger votre adversaire à faire éclater le dernier ballon. Le truc est simple, vous devez toujours éclater le nombre de ballons qu'il faut pour que le total des votres et de ceux de votre adversaires arrivent à quatre. Par exemple si éclate trois ballons, vous en éclatez un. Si en éclate deux, vous en éclatez deux. Et si il en éclate un, vous en éclatez trois. Super facile. Quand vous aurez gagné, vous allez devoir vous battre, gagnez le combat pour remporter une cravatte. Vous devez vous rendre à l'est de la ville puis l'utiliser à partir de votre inventaire pour pouvoir accès à la partie suivante : le quartier résidentiel.
+
+Néanmoins le parc cache encore un tas de secrets et je vous conseille de fouiller plus attentivement les lieux, il y pas mal de coffres par ici, mais je vous laisse chercher tout seul.
+
+--
+
+IX. Zone 2 - Le quartier résidentiel
+
+Ici c'est très simple vous devez tuer les huits fantômes avant la fin du chrono (4 minutes). Notez que le temps s'arrête durant les combats, et qu'il y a aussi trois incendiés que vous pouvez affronter. Si vous tuez les trois incendiés en plus des huits fantômes vous serez récompensé avec un objet secret. Mais prenez garde, car si vous affrontez le dernier fantôme avant d'avoir tué tous les incendiés, la séquence s'arrête et vous ne pouvez plus revenir dans les quartiers résidentiels. Il y a aussi deux coffres à trouver, un dans chaque bunker accessible. (Celui en bas à droite ne sera ouvrable que quand la zone sera blanche.)
+
+Emplacement des fantômes (dans l'ordre) :
+1. Juste en haut de l'entrée sur la carte (point de départ sous l'arche)
+2. Après avoir franchi l'arche, montez les deux escaliers et rendez-vous sur la petite place à gauche.
+3. Retournez sur le chemin clair et montez encore deux séries d'escaliers, puis tournez à gauche et montez un dernier escalier pour trouver le fantôme suivant.
+4 et 5. Redescendez l'escalier et allez à l'est, il y a deux fantômes sur la grand place où Japhet a parlé à la population.
+6. Continuez à l'est et montez au nord, un fantôme se trouve dans le coin supérieur droit de la map.
+7. Descendez jusqu'en bas de la carte, descendez les deux escaliers, l'avant dernier fantôme se trouve sur une petite placette avec une rembarde, tout en bas à droite.
+8. Maintenant allez à l'ouest et entrez dans la première maison sur le chemin. A l'intérieur montez l'escalier et sortez par l'autre porte, puis montez l'échelle le dernier fantôme poursuit un habitant.
+
+Emplacement des incendiés
+1. Le premier incendié protège un coffre dans le bunker au sud-ouest
+2. Après avoir vaincu le premier fantôme et monté les deux excaliers, rentrez dans la maison. Le premier incendié est caché derrière les caisses
+3. Après avoir vaincu le deuxième fantôme quand vous remontez vers le nord, le premier type paniqué que vous croisez est un incendié.
+
+Codes des Bunkers
+Sud-Ouest  : 1402 (donné par le type dans la maison tout au nord)
+Nord-Ouest  : 1805 (donné par un gars qui court au sud-est, tout prêt du fantôme 7)
+Sud-Est : Inaccessible.
+
+Une fois le quartier nettoyé, les habitants vous fouttent dehors. Vous retrouvez le juge, et décidez de repartir dans la bibliothèque.
+
+--
+
+X. Zone 2 - La Bibliothèque (2)
+
+Ici il suffit de monter toujours plus haut en lisant les livres dans les étagères en face dequelles le sol est clair. En plus de découvrir une histoire incroyable, le numéro des pages vous servira comme code pour passer la dernière porte. Comme dans la zone 1, le premier chiffre correspond à la place du deuxième dans le code. Le code est donc : 49971640
+
+C'est encore le truc du clavier téléphonique (voilà le petit shéma)
+
+1 2 3
+4 5 6
+7 8 9
+  0 
+
+Une fois au sommet vous retrouvez Zacharie et un bloc de sauvegarde, faites vos courses avant d'affronter le boss de la zone. Une fois celui-ci vaincu et après une cinématique qui vous en mettra plein les mirettes, vous vous retrouvez à nouveau dans le néant. Allez sur le dernier rond rouge pour visiter la zone 3.
+
+(La zone 2 blanche est maintenant accessible, au même nom que la première.)
+
+--
+
+XI. Zone 3 - Area 1
+
+Allez hop, tout le monde au nord, jusqu'à entrer dans l'usine. Prenez le bout de papier au mur, puis franchissez la porte à gauche. Continuez vers la gauche et vous voilà dans la cafétéria. Ici vous devez faire correspondre les dalles aux sol avec les cases sur la fiche tamponée (utilisez MAJ pour l'afficher) ainsi vous pourrez voir le chemin à emprunter pour éviter les hordes de fantômes qui vous re-téléporteront à l'entrée si vous sortez des balises.
+
+(Sans doute la fiche tamponée est-elle plus claire, je vous conseille plutôt de vous y référer, néanmoins je vais quand même donner les trajets à faire.)
+
+Commencez par aller cinq dalles plus loins vers l'ouest, puis deux vers le nord et deux encore vers l'ouest. Ensuite redescendez à gauche de la table jusque tout en bas de la map. Ensuite marchez à l'ouest une petite case (jusqu'au coin en bas à gauche en fait.) Puis remontez en ligne droite en faisant bien attention de ne pas toucher le mur de gauche et ne pas aller au delà des tables. Franchissez la porte. Vous êtes dans les dortoirs ouest. Dans la deuxième pièce à partir du bas se trouve un coffre (caché derrière les lits.) Montez tout en haut pour voir une super cinématique en quatre dimension avec son et odeurs qui sera suivie d'un combat. Une fois l'incendié vaincu ressortez de la pièce et retournez au point de départ de la cafétéria. (Téléportez vous, les combats ne font pas de mal... Pas trop.)
+
+Retournez donc au début de la cafétéria et repartez de cette façon : une dalle à l'ouest, deux dalles au nord (jusqu'au type qui parle), puis à nouveau une dalle à l'ouest et deux dalles au nord (en passant à gauche de la table.) Puis cinq dalles vers l'ouest et montez au nord jusqu'à la porte. Vous êtes dans les dortoirs est. Un coffre se trouve dans la dernière pièce tout au nord, ainsi que votre dernier compagnon de combat. Sortez des dortoirs et descendez d'une case vers le bas (sans compter celle sous la porte). Ensuite comptez sept dalles vers l'est et montez jusqu'à toucher le mur. Enfin marchez vers l'ouest pour vous retrouver derrière le comptoir et entrer dans les cuisines où vous retrouverez le juge. Une fois que vous lui avez parlé, sortez de la cafétéria et retournez dans l'entrée de l'usine. Là prenez l'escalier à droite et continuez dans cette direction jusqu'à entrer dans le métro. Choissisez l'Area 2 comme destination.
+
+--
+
+XII. Zone 3 - Area 2
+
+Une fois sorti du métro et passé la discution avec le juge, vous avez le choix. Les deux portes en face de vous vous conduiront voir Zacharie ou le juge, tandis que la porte tout à l'ouest vous fera entrer dans les salles de traitement. C'est là qu'on va. Dans la première salle l'accès à la porte nord est interdit par de gros méchants blocs. Pour les faire disparaitre, activez d'abord les trois interrupteurs à l'est de la pièce, puis celui sur la colonne centrale, et enfin une nouvelle fois l'interrupteur le plus à l'est. L'accès est maitenant autorisé.
+
+Dans la pièce suivante il faut d'abord activer l'interrupteur en haut à droite. Ensuite celui en haut à gauche de la pièce. Vous avez maintenant accès au coffre en bas à gauche, derrière les caisses. Ensuite retournez à nouveau désactiver l'interrupteur en haut à gauche. Puis activez celui du milieu et enfin désactivez celui en haut à droite.
+
+Mais ce n'est pas tout, pour franchir la porte l'ordinateur demande à nouveau un mot de passe. Il s'agit du nom des monstres qui vous attaquent dans le coin, utilisez la compétence du batteur "le grand angle" ou un objet "oeil" pour vous mettre au courant, ce sont des Von Gacy. Entrez donc "Von Gacy" comme mot de passe et le tour est joué. Une fois derrière la porte, et après une petite cinématique pleine de rebomdissements, un nouveau combat s'enclanche. Une fois les adversaires vaincus, n'oubliez pas d'ouvrir le coffre à droite de la pièce avant de sortir. Attention, dans les deux pièces qu'il vous faut franchir pour vous retrouver à l'air libre, les employés vont vous suivre tels des zombies. A vous de les éviter si vous voulez éviter les combats.
+
+Retournez ensuite au sud et prenez le métro jusqu'à l'area 3.
+
+--
+
+XIII. Zone 3 - Area 3
+
+Ici rien de plus simple, montez jusqu'en haut de la cheminée et sautez dedans. Un mini-jeu idiot s'enclenchera dans lequel vous devrez récupérer dix add-ons sans perdre vos points de vie face aux fantômes. Une fois le jeu réussi, descendez les escaliers à droite et subissez une nouvelle cinématique. Une fois terminée retournez là où vous avez atteri, et observez le trou circulaire à droite pour que le batteur saute dedans.
+
+Si vous tentez de réessayer le jeu de la chute mortelle (c'est son nom), le temps dont vous disposerez sera deux fois plus court, mais des coffres secrets vous attendront à l'arrivée.
+
+Une fois que vous estimez en avoir terminé avec l'area 3, reprennez le métro. Le juge intervient, et vous avez droit à une magnifique séquence dans ce super moyen de transport. Quand le métro s'arrête, sortez, massacrez le type qui bloque la voie et remontez. Le métro va redémarer et vous allez arriver à l'Area 4.
+
+--
+
+XIV. Zone 3 - Area 4
+
+Bon ici les choses commencent à se corser. Voilà un plan du coin, pour qu'on s'y retrouve. Les portes fermées à clef sont marquées par un O, et parce qu'on ne change pas une recette qui marche les coffres sont marqués par des X comme sur les plans des pirates.
+
+                                                                        _____
+                                               ________                |     |
+                                              | 5      |               |  7  |
+                                              |____   _|               |_   _|
+ __O____O____O____O____O____O____    _________    _| |                   | |
+|  ______________________________    ___   ___    _  |                   | |
+| |                                     | |        | |                   | |
+| |                                                | |                   | |
+| |                                      ^         | |                   | |
+| |                                      |         | |                   | |
+| |                                  vers Enoch    | |                   | |
+| |                                                | |                   | |
+| |        ____ ____              vers le métro    | |     ____          | |
+| |       |    |    |                    |         | |    |    |         | |
+| |       | 1  | 2  |                    v         | |    | 6  |         | |
+| |       |_  _|_  _|                              | |    |_  _|         | |
+| |_O___O___||___||___O____O_____    ___| |___    _| |__O___||___O___O___| |
+|____________________________   _    _________    _   ___________________  |
+                             | |                   | |                   | |
+                             | |                   | |                   | |
+                             | |                   | |                   | |
+                             | |                   | |                   | |
+       ____             ____ | |                   | |                   | |
+      |    |           |    || |                   | |                   | |
+      | X  |           | 4  || |                   | |                   | |
+      |_  _|           |_  _|| |                   | |                   | |
+ __O____||____O_____O____||__| |                   | |                   |X|
+|______________________________|                   |_|                   |_|
+
+Dans la pièce 6 se trouve un adversaire qui, une fois vaincu (il faut frapper la tête qui sort du monstre pour espérer gagner) vous laissera comme trésor une boite à musique. Si vous allez ensuite dans la pièce 4 et que vous prenez le passage qui s'y trouve vous tomberez sur le Juge qui sera d'accord de vous échanger la boite contre un indice, ce qui n'est pas nécéssaire compte tenu que vous avez la soluce, espèce de gredin. Récupérez quand même la boite à musique elle peut servir plus tard. Dans la pièce 7 se trouve Zacharie et il vend des trucs, comme d'habitude.
+
+Allez dans la pièce 2 et poussez le bureau qui s'y trouve. Allez ensuite dans la pièce 1 et vous pourrez lire des indices importants. Ouvrez ensuite le lisez-moi du jeu Off pour lire le code qui permet de débloquer l'accès au passage qui va vers Enoch. Rendez vous dans la pièce 5, où vous trouverez le pad qui vous permettera d'entrer ce dit code à l'aide des indices. Le code est "Bas - Gauche - Haut - Droite - Z - J - B - D - B - Start" et voici ce à quoi correspondent les touches de la manette
+
+     Haut                            Z
+
+Gauche   Droite                  J       B
+                  Select Start
+      Bas                            D            
+
+Une fois le code entré, dirigez-vous vers Enoch. Après avoir traversé un chouette couloir vous vous retrouvez devant un nouveau tas de blocs flottants, et un code. L'astuce ici est que le clavier téléphonique est à l'envers. Voici donc l'ordre des cubes :
+
+  0
+9 8 7
+6 5 4
+3 2 1
+
+Le code est écrit au mur c'est 5362580. Une fois entré, passez la porte au nord, sauvegardez et continuez au nord jusqu'au bureau d'Enoch. Le boss de cette zone est assez particulier car lors de votre premier combat, vous devez commencer par fuir (Tout en bas dans le menu de combat du batteur). Vous vous retrouverez ensuite hors du bureau, marchez vers le bas et le directeur commencera à vous poursuivre, si vous n'arrivez pas à vous enfuir, fuyez lors du combat et vous passerez automatiquement à la pièce suivante. Une fois hors d'atteinte, suivez le chemin très linéaire jusqu'à l'arrêt de métro et soyez prêt pour le véritable affrontement. Après la magnifique cinématique en couleurs et avec du son, vous vous retrouvez dans le néant. Il est temps d'entrer dans la chambre.
+
+(Vous avez accès à la zone 3 blanche, comme prévu.)
+
+--
+
+XV. La Chambre - Chapitre 5
+
+Franchissez les portes, ça pourrait pas être plus linéaire. Dans la pièce avec le lit (la chambre en fait) observez les pages de calendrier au mur. Sortez de la pièce, puis retournez-y et lisez le mot qui est apparu. Ressortez à nouveau, vous êtes dans la première pièce. Remontez et vous vous retrouverez face à une armée de nounours qu'il va vous faloir vaincre. Une fois que c'est fait, reprennez votre ascension vers le nord. Une porte est apparue dans la chambre, franchissez la et revenez directement sur vos pas. Le chapitre est déjà terminé.
+
+--
+
+XVI. La Chambre - Chapitre 4
+
+A chaque chapitre vous allez commencer au même endroit, comme ça vous savez. Montez vers la chambre. Là vous pouvez regarder le calendrier, puis franchir la porte. Continuez jusqu'à arriver sur le dessin d'un enfant. Utilisez le curseur pour choisir le point rouge à côté du grand monsieur dans sa maison. Entrez dans celle-ci et parlez avec Dedan. Ensuite ressortez, retournez dans la chambre, observez le calendrier à nouveau et il vous proposera de le prendre. Acceptez. Retournez voir Dedan et il vous donnera un livre et un objet.
+
+Retournez sur le dessin d'enfant et sélectionnez le gros monsieur cette fois. Allez lui parler puis retournez sur le dessin. Enfin, allez voir les oiseaux et parlez à Japhet. Donnez lui le livre. Ensuite retournez à la cabane de Dedan et lisez les centaines de lignes du dialogue qui suivra. Une fois celui-ci terminé, retournez encore une fois sur le dessin d'enfant et choissisez le soleil. Fin du chapitre.
+
+--
+
+XVII. La Chambre - Chapitre 3
+
+Après le titre du chapitre vous vous retrouvez face à l'écran titre du jeu. Choissisez charger, chaque partie différente étant une chambre différente à visiter. Commencez par la première. Prenez garde au sol rouge il fait perdre des points de vie. Si vous avez gardé et que vous utilisez la boite à musique dans la chambre, un coffre apparait avec un objet génialoïde. En sortant de la chambre prenez la porte en bas à gauche, et parlez au type géant. Il vous demande un code, donnez lui celui qui s'affiche à l'écran. (8946) Ensuite prenez la porte à droite.
+
+Ici vous devez placer la boule qui roule dans le creux. A chaque pas que vous ferez sur les neuf cases en croix au milieu de la pièce, la boule ira dans la même direction que vous. Quand c'est bon un code apparait sur le mur, notez-le (ou pas, je vous le donnerais de toutes façons) il servira plus tard. Ressortez. Passez devant le grand type et revenez dans la pièce principale. La-bas, prenez la porte en haut à droite.
+
+Dans le coin il y a un tas de gens qui posent des questions. Vous n'avez qu'une seule chance à chaque fois mais si vous répondez juste ils vous offrent un objet rare. Voici les réponses aux questions.
+
+01. Et Aujourd'hui, quel jour on est ? R : 18 mars
+02. Dans quelle station peut-on trouver du métal dans le ventre des bovidés ? R : Pentel
+03. Lequel de ces livres ne peut-on pas lire à la bibliothèque ? R : Directions
+04. Peux-tu me donner le code secret des entrepôts ? R : Von Gacy
+
+Avant de partir, allez observer le papier en haut du couloir en zigzags. C'est le dos d'une carte à jouer. Notez (ou pas) les endroits où se trouvent les espèces de feuilles qui poitent vers la droite (il y a six endroits). Maintenant revenez tout à fait en arrière jusqu'au point de sauvegarde. Refranchissez la porte dans l'autre sens et prenez le deuxième bloc de sauvegarde. Allez dans la pièce tout au nord, et vous remarquerez que les dalles au sol ressemblent au dos de la carte, tout comme les logos au mur. Enfoncez les six blocs qui pointent vers la droite pour trouver un nouveau code. (hop un shéma pour indiquer les dalles à enfoncer)
+
+OXOOO
+OOXOO
+OX OO
+
+OX OO
+OOXOO
+OXOOO
+
+Retournez voir le type géant dans la première sauvegarde et donnez lui le code que vous venez de trouver (5865), pour vous récompenser il va vous donner la carte du sagittaire. Ressortez à nouveau et choisissez la dernière sauvegarde maintenant. Continuez tout droit jusqu'à arriver à la pièce avec les traditionnels blocs flottants. Entrez le code que vous avez trouver en faisant rouler la pierre (3755), sortez de la pièce, traversez le couloir. Fin du chapitre.
+
+--
+
+XVIII. La Chambre - Chapitre 2
+
+Allez jusqu'à la chambre, et lisez la bande dessinée par terre. Une fois aux commandes de Boxxer, contentez vous d'aller vers la droite en évitant les clones de Ballman. Dans le pire des cas, des combats se déclancherons, et comme Boxxer est un tueur né, pas d'inquiétude. Une fois face à l'armée de Ballman, utilisez la compétence "Boxx-Bomb" pour en terminer en vitesse avec ce combat. Une fois celui-ci terminé, sortez de la chambre. Fin du chapitre.
+
+--
+
+XIX. La Chambre - Chapitre 1
+
+C'est ici la dernière fois que vous pouvez sauvegarder. Je vous le conseille. Une fois la porte passée, plus moyen de revenir en arrière. Le boss final vous attend. Je n'ai rien d'autre à vous dire.
+
+--
+
+XX. La Chambre - Chapitre 0
+
+Quoi ? Il y a un chapitre zéro ? Surprenant ! Je vous laisse le découvrir, de toutes façons il n'est pas difficile du tout. J'adore les trucs linéaires.
+
+Pour ceux qui ont lu la Soluce jusqu'au bout (ou qui sont venu voir si j'ai écrit des trucs intéressants à la fin) voici un indice pour débloquer un truc secret : Récupérez les cinq "Grands" et allez parler à Zacharie dans la zone 0. Par contre ne comptez pas sur moi pour vous dire ou sont ces objets secrets.
+
+Passez une bonne journée, et merci de jouer à Off !
